@@ -1,0 +1,1072 @@
+,State_Abbr,vulnerability,vulnerability_value_mean,vulnerability_value_min,vulnerability_value_max,State
+0,AK,Active smoking in adults 18+,17.903636363636366,11.3,28.7,Alaska
+1,AK,Asthma prevalence among adults 18+,9.043636363636361,8.0,10.6,Alaska
+2,AK,COPD prevalence among adults 18+,4.534545454545454,2.0,6.8,Alaska
+3,AK,Cancer prevalence in adults 18+,5.449090909090909,1.6,8.3,Alaska
+4,AK,Coronary heart disease prevalence in adults 18+,4.2363636363636346,0.9,6.4,Alaska
+5,AK,Covid-19 Vulnerability Index,30.49621818181818,0.0,53.888999999999996,Alaska
+6,AK,Diabetes prevalence in adults 18+,7.405454545454547,1.9,11.6,Alaska
+7,AK,Health Infrastructure,53.278692307692296,38.699,66.809,Alaska
+8,AK,High blood pressure prevalence in adults 18+,28.207272727272738,13.2,35.1,Alaska
+9,AK,"Number of hospital beds per 1,000 pop. within 25km radius",2.308192307692306,0.848,2.356,Alaska
+10,AK,"Number of urgent care facilities per 1,000 pop. within 25km radius",1.9315636363636364,0.254,9.595,Alaska
+11,AK,"Nursing home population per 1,000",7.270563636363636,0.0,63.966,Alaska
+12,AK,Percentage of pop. 18-64 with no health insurance,12.790909090909079,6.8,21.1,Alaska
+13,AK,Population Demographics,21.99245454545455,0.0,55.653,Alaska
+14,AK,"Population aged 60-69, percentage of total pop.",9.653672727272728,0.19699999999999998,22.798000000000002,Alaska
+15,AK,"Population aged 70-79, percentage of total pop.",4.320581818181816,0.0,7.64,Alaska
+16,AK,"Population aged 80+, percentage of total pop.",2.0183636363636364,0.0,7.632999999999999,Alaska
+17,AK,"Population density per 10,000",14.87994545454546,0.017,32.926,Alaska
+18,AK,"Prison population per 1,000",4.926418181818181,0.0,165.638,Alaska
+19,AK,Ratio of the population to primary care physicians,108.0,108.0,108.0,Alaska
+20,AK,Underlying Health Issues,29.328563636363622,0.0,48.026,Alaska
+21,AL,Active smoking in adults 18+,20.162028985507252,7.7,35.9,Alabama
+22,AL,Asthma prevalence among adults 18+,11.437681159420283,8.3,17.0,Alabama
+23,AL,COPD prevalence among adults 18+,8.519999999999998,2.5,17.6,Alabama
+24,AL,Cancer prevalence in adults 18+,6.150434782608696,0.8,12.7,Alabama
+25,AL,Coronary heart disease prevalence in adults 18+,6.926086956521744,0.6,16.1,Alabama
+26,AL,Covid-19 Vulnerability Index,58.702113043478214,0.0,100.0,Alabama
+27,AL,Diabetes prevalence in adults 18+,13.808405797101445,1.4,33.1,Alabama
+28,AL,Health Infrastructure,43.44547246376809,0.0,73.546,Alabama
+29,AL,High blood pressure prevalence in adults 18+,40.95362318840581,10.8,65.9,Alabama
+30,AL,"Number of hospital beds per 1,000 pop. within 25km radius",4.024481159420295,2.437,5.632999999999999,Alabama
+31,AL,"Number of urgent care facilities per 1,000 pop. within 25km radius",4.092339130434781,0.43200000000000005,19.608,Alabama
+32,AL,"Nursing home population per 1,000",6.665378698224853,0.0,86.29899999999999,Alabama
+33,AL,Percentage of pop. 18-64 with no health insurance,17.96144927536234,6.6,33.7,Alabama
+34,AL,Population Demographics,34.07522898550726,0.0,100.0,Alabama
+35,AL,"Population aged 60-69, percentage of total pop.",11.268127536231878,0.0,25.862,Alabama
+36,AL,"Population aged 70-79, percentage of total pop.",6.1834115942029,0.0,21.070999999999998,Alabama
+37,AL,"Population aged 80+, percentage of total pop.",3.73955362318841,0.0,21.471,Alabama
+38,AL,"Population density per 10,000",8.164081159420295,0.046,33.157,Alabama
+39,AL,"Prison population per 1,000",1.3346961651917404,0.0,175.919,Alabama
+40,AL,Ratio of the population to primary care physicians,88.9768115942029,36.0,108.0,Alabama
+41,AL,Underlying Health Issues,59.71789565217392,0.0,100.0,Alabama
+42,AR,Active smoking in adults 18+,21.361016949152543,10.7,35.1,Arkansas
+43,AR,Asthma prevalence among adults 18+,9.744915254237284,7.7,12.3,Arkansas
+44,AR,COPD prevalence among adults 18+,7.163559322033897,3.7,11.7,Arkansas
+45,AR,Cancer prevalence in adults 18+,5.876271186440677,2.0,9.7,Arkansas
+46,AR,Coronary heart disease prevalence in adults 18+,6.141525423728814,2.5,11.2,Arkansas
+47,AR,Covid-19 Vulnerability Index,47.44883898305088,11.128,88.369,Arkansas
+48,AR,Diabetes prevalence in adults 18+,10.611016949152535,4.2,21.0,Arkansas
+49,AR,Health Infrastructure,40.74546610169492,17.472,87.691,Arkansas
+50,AR,High blood pressure prevalence in adults 18+,35.62881355932203,19.5,55.5,Arkansas
+51,AR,"Number of hospital beds per 1,000 pop. within 25km radius",3.929406779661017,1.515,5.626,Arkansas
+52,AR,"Number of urgent care facilities per 1,000 pop. within 25km radius",0.9730593220338988,0.257,3.505,Arkansas
+53,AR,"Nursing home population per 1,000",10.859863247863252,0.0,60.629,Arkansas
+54,AR,Percentage of pop. 18-64 with no health insurance,13.764406779661023,5.0,29.9,Arkansas
+55,AR,Population Demographics,30.608449152542363,0.0,81.991,Arkansas
+56,AR,"Population aged 60-69, percentage of total pop.",10.556110169491527,1.271,19.259,Arkansas
+57,AR,"Population aged 70-79, percentage of total pop.",5.203355932203389,0.58,11.592,Arkansas
+58,AR,"Population aged 80+, percentage of total pop.",3.304474576271188,0.177,11.693,Arkansas
+59,AR,"Population density per 10,000",7.563483050847459,0.26,28.441999999999997,Arkansas
+60,AR,"Prison population per 1,000",2.100213675213675,0.0,93.32799999999999,Arkansas
+61,AR,Ratio of the population to primary care physicians,108.2542372881356,59.0,128.0,Arkansas
+62,AR,Underlying Health Issues,47.80793220338983,12.038,89.04700000000001,Arkansas
+63,AZ,Active smoking in adults 18+,17.16279999999998,6.5,30.9,Arizona
+64,AZ,Asthma prevalence among adults 18+,10.348199999999995,8.2,13.1,Arizona
+65,AZ,COPD prevalence among adults 18+,6.021999999999998,2.3,16.5,Arizona
+66,AZ,Cancer prevalence in adults 18+,6.055700000000003,1.2,18.8,Arizona
+67,AZ,Coronary heart disease prevalence in adults 18+,5.1830000000000025,0.9,18.0,Arizona
+68,AZ,Covid-19 Vulnerability Index,39.51644399999997,0.0,100.0,Arizona
+69,AZ,Diabetes prevalence in adults 18+,9.174100000000005,1.7,20.7,Arizona
+70,AZ,Health Infrastructure,55.934189655172524,1.9569999999999999,100.0,Arizona
+71,AZ,High blood pressure prevalence in adults 18+,27.222099999999998,9.5,57.6,Arizona
+72,AZ,"Number of hospital beds per 1,000 pop. within 25km radius",2.044332,0.425,2.866,Arizona
+73,AZ,"Number of urgent care facilities per 1,000 pop. within 25km radius",8.837404665314395,0.618,28.534000000000002,Arizona
+74,AZ,"Nursing home population per 1,000",7.060665647298674,0.0,88.334,Arizona
+75,AZ,Percentage of pop. 18-64 with no health insurance,16.610199999999985,5.0,43.3,Arizona
+76,AZ,Population Demographics,30.486815999999965,0.0,100.0,Arizona
+77,AZ,"Population aged 60-69, percentage of total pop.",10.291582999999989,0.128,37.135,Arizona
+78,AZ,"Population aged 70-79, percentage of total pop.",6.422209000000011,0.0,53.486000000000004,Arizona
+79,AZ,"Population aged 80+, percentage of total pop.",3.489207,0.0,35.756,Arizona
+80,AZ,"Population density per 10,000",19.348498999999993,0.019,112.21,Arizona
+81,AZ,"Prison population per 1,000",0.7291738693467337,0.0,196.84,Arizona
+82,AZ,Ratio of the population to primary care physicians,70.839,41.0,82.0,Arizona
+83,AZ,Underlying Health Issues,36.81092799999996,0.0,100.0,Arizona
+84,CA,Active smoking in adults 18+,13.80578575520338,2.0,36.4,California
+85,CA,Asthma prevalence among adults 18+,8.90150849723125,5.6,13.7,California
+86,CA,COPD prevalence among adults 18+,4.9830437273248105,1.0,16.9,California
+87,CA,Cancer prevalence in adults 18+,5.405193813251832,0.7,22.9,California
+88,CA,Coronary heart disease prevalence in adults 18+,4.796085545159469,0.4,17.9,California
+89,CA,Covid-19 Vulnerability Index,35.397148176436964,0.0,100.0,California
+90,CA,Diabetes prevalence in adults 18+,9.733607026923796,0.8,25.5,California
+91,CA,Health Infrastructure,52.18033827545831,0.0,100.0,California
+92,CA,High blood pressure prevalence in adults 18+,26.654802367767793,5.3,57.3,California
+93,CA,"Number of hospital beds per 1,000 pop. within 25km radius",2.251874928394138,0.34600000000000003,4.908,California
+94,CA,"Number of urgent care facilities per 1,000 pop. within 25km radius",7.4659498732201985,0.0,29.054000000000002,California
+95,CA,"Nursing home population per 1,000",5.665377782078573,0.0,87.594,California
+96,CA,Percentage of pop. 18-64 with no health insurance,14.741157372039734,3.6,42.7,California
+97,CA,Population Demographics,30.10098949780415,0.0,100.0,California
+98,CA,"Population aged 60-69, percentage of total pop.",9.780484437655172,0.0,100.0,California
+99,CA,"Population aged 70-79, percentage of total pop.",5.324530456368154,0.0,40.784,California
+100,CA,"Population aged 80+, percentage of total pop.",3.430140347527213,0.0,38.468,California
+101,CA,"Population density per 10,000",41.9000217681878,0.011000000000000001,584.904,California
+102,CA,"Prison population per 1,000",0.6849276530416428,0.0,203.11,California
+103,CA,Ratio of the population to primary care physicians,80.47660874546496,42.0,157.0,California
+104,CA,Underlying Health Issues,32.271909490166095,0.0,100.0,California
+105,CO,Active smoking in adults 18+,16.056871345029244,7.0,41.5,Colorado
+106,CO,Asthma prevalence among adults 18+,9.458040935672509,7.4,13.7,Colorado
+107,CO,COPD prevalence among adults 18+,4.7497076023391855,1.8,14.2,Colorado
+108,CO,Cancer prevalence in adults 18+,5.8336257309941475,0.8,17.9,Colorado
+109,CO,Coronary heart disease prevalence in adults 18+,4.447514619883041,0.6,14.1,Colorado
+110,CO,Covid-19 Vulnerability Index,32.583100877192976,0.0,100.0,Colorado
+111,CO,Diabetes prevalence in adults 18+,7.315643274853811,1.0,19.1,Colorado
+112,CO,Health Infrastructure,56.69731176470592,0.0,100.0,Colorado
+113,CO,High blood pressure prevalence in adults 18+,24.715058479532168,7.0,50.5,Colorado
+114,CO,"Number of hospital beds per 1,000 pop. within 25km radius",1.5158216374268927,0.259,4.577,Colorado
+115,CO,"Number of urgent care facilities per 1,000 pop. within 25km radius",7.288308823529404,0.5579999999999999,28.851999999999997,Colorado
+116,CO,"Nursing home population per 1,000",9.224882962962965,0.0,88.512,Colorado
+117,CO,Percentage of pop. 18-64 with no health insurance,13.629970760233926,5.0,38.1,Colorado
+118,CO,Population Demographics,29.90666228070176,0.0,100.0,Colorado
+119,CO,"Population aged 60-69, percentage of total pop.",10.434711988304098,0.0,23.169,Colorado
+120,CO,"Population aged 70-79, percentage of total pop.",5.480795321637428,0.0,35.869,Colorado
+121,CO,"Population aged 80+, percentage of total pop.",3.176545321637427,0.0,34.32,Colorado
+122,CO,"Population density per 10,000",20.12026461988303,0.015,98.18700000000001,Colorado
+123,CO,"Prison population per 1,000",0.784045588235294,0.0,118.065,Colorado
+124,CO,Ratio of the population to primary care physicians,86.37573099415205,43.0,131.0,Colorado
+125,CO,Underlying Health Issues,28.391602339181286,0.0,100.0,Colorado
+126,CT,Active smoking in adults 18+,17.58409090909091,8.2,30.9,Connecticut
+127,CT,Asthma prevalence among adults 18+,10.998636363636368,8.1,15.4,Connecticut
+128,CT,COPD prevalence among adults 18+,6.342272727272728,1.7,14.1,Connecticut
+129,CT,Cancer prevalence in adults 18+,5.466818181818182,0.8,9.6,Connecticut
+130,CT,Coronary heart disease prevalence in adults 18+,5.499090909090914,0.8,13.8,Connecticut
+131,CT,Covid-19 Vulnerability Index,42.53547272727273,0.0,100.0,Connecticut
+132,CT,Diabetes prevalence in adults 18+,10.809999999999999,1.7,23.9,Connecticut
+133,CT,Health Infrastructure,60.757281818181774,28.480999999999998,86.15700000000001,Connecticut
+134,CT,High blood pressure prevalence in adults 18+,30.317272727272712,8.8,47.9,Connecticut
+135,CT,"Number of hospital beds per 1,000 pop. within 25km radius",2.2078909090909136,1.093,4.4,Connecticut
+136,CT,"Number of urgent care facilities per 1,000 pop. within 25km radius",3.1020409090909116,0.207,19.173,Connecticut
+137,CT,"Nursing home population per 1,000",0.0,0.0,0.0,Connecticut
+138,CT,Percentage of pop. 18-64 with no health insurance,16.813181818181807,4.9,35.1,Connecticut
+139,CT,Population Demographics,27.08835,0.0,100.0,Connecticut
+140,CT,"Population aged 60-69, percentage of total pop.",9.078259090909091,0.273,20.302,Connecticut
+141,CT,"Population aged 70-79, percentage of total pop.",4.910381818181817,0.0,19.762,Connecticut
+142,CT,"Population aged 80+, percentage of total pop.",3.2286818181818178,0.0,23.101999999999997,Connecticut
+143,CT,"Population density per 10,000",33.78569545454544,1.936,148.686,Connecticut
+144,CT,"Prison population per 1,000",1.4037201834862387,0.0,152.019,Connecticut
+145,CT,Ratio of the population to primary care physicians,92.48181818181818,89.0,95.0,Connecticut
+146,CT,Underlying Health Issues,41.34251818181816,0.0,100.0,Connecticut
+147,DC,Active smoking in adults 18+,17.19157303370788,7.9,36.5,District of Columbia
+148,DC,Asthma prevalence among adults 18+,10.269662921348312,7.5,15.3,District of Columbia
+149,DC,COPD prevalence among adults 18+,5.366292134831458,2.1,11.7,District of Columbia
+150,DC,Cancer prevalence in adults 18+,4.947191011235955,1.0,10.5,District of Columbia
+151,DC,Coronary heart disease prevalence in adults 18+,4.447191011235955,1.1,13.0,District of Columbia
+152,DC,Covid-19 Vulnerability Index,34.4639606741573,0.0,97.35700000000001,District of Columbia
+153,DC,Diabetes prevalence in adults 18+,9.154494382022474,1.7,17.5,District of Columbia
+154,DC,Health Infrastructure,31.12403370786519,0.0,52.763999999999996,District of Columbia
+155,DC,High blood pressure prevalence in adults 18+,29.933707865168532,8.8,45.8,District of Columbia
+156,DC,"Number of hospital beds per 1,000 pop. within 25km radius",2.122511235955058,1.8359999999999999,2.282,District of Columbia
+157,DC,"Number of urgent care facilities per 1,000 pop. within 25km radius",9.69493258426967,4.1,25.21,District of Columbia
+158,DC,"Nursing home population per 1,000",3.838988764044944,0.0,87.21600000000001,District of Columbia
+159,DC,Percentage of pop. 18-64 with no health insurance,8.75955056179775,3.4,19.8,District of Columbia
+160,DC,Population Demographics,27.57296629213483,0.0,100.0,District of Columbia
+161,DC,"Population aged 60-69, percentage of total pop.",8.781561797752808,0.0,21.359,District of Columbia
+162,DC,"Population aged 70-79, percentage of total pop.",5.111769662921348,0.0,15.937000000000001,District of Columbia
+163,DC,"Population aged 80+, percentage of total pop.",3.0488595505617995,0.0,22.515,District of Columbia
+164,DC,"Population density per 10,000",71.03531460674158,8.308,250.61700000000002,District of Columbia
+165,DC,"Prison population per 1,000",0.08541807909604521,0.0,15.119000000000002,District of Columbia
+166,DC,Ratio of the population to primary care physicians,118.0,118.0,118.0,District of Columbia
+167,DC,Underlying Health Issues,33.91857303370786,0.0,77.13,District of Columbia
+168,DE,Active smoking in adults 18+,22.733333333333334,10.8,35.4,Delaware
+169,DE,Asthma prevalence among adults 18+,12.070833333333335,8.9,14.6,Delaware
+170,DE,COPD prevalence among adults 18+,8.108333333333333,4.2,12.8,Delaware
+171,DE,Cancer prevalence in adults 18+,5.6125,2.8,9.0,Delaware
+172,DE,Coronary heart disease prevalence in adults 18+,6.3,3.8,9.5,Delaware
+173,DE,Covid-19 Vulnerability Index,56.54599999999999,31.197,85.869,Delaware
+174,DE,Diabetes prevalence in adults 18+,14.045833333333334,6.0,22.4,Delaware
+175,DE,Health Infrastructure,63.300875,47.949,79.343,Delaware
+176,DE,High blood pressure prevalence in adults 18+,39.75833333333333,24.9,52.0,Delaware
+177,DE,"Number of hospital beds per 1,000 pop. within 25km radius",2.5510000000000015,2.551,2.551,Delaware
+178,DE,"Number of urgent care facilities per 1,000 pop. within 25km radius",2.9222499999999996,1.153,5.013,Delaware
+179,DE,"Nursing home population per 1,000",10.52225,0.0,66.686,Delaware
+180,DE,Percentage of pop. 18-64 with no health insurance,19.25833333333333,6.6,33.5,Delaware
+181,DE,Population Demographics,28.96929166666666,4.449,64.794,Delaware
+182,DE,"Population aged 60-69, percentage of total pop.",9.53375,3.98,19.191,Delaware
+183,DE,"Population aged 70-79, percentage of total pop.",5.243,1.2930000000000001,12.699000000000002,Delaware
+184,DE,"Population aged 80+, percentage of total pop.",2.970375,0.0,6.537999999999999,Delaware
+185,DE,"Population density per 10,000",47.390125000000005,4.106,106.54299999999999,Delaware
+186,DE,"Prison population per 1,000",1.6526956521739131,0.0,38.012,Delaware
+187,DE,Ratio of the population to primary care physicians,83.0,83.0,83.0,Delaware
+188,DE,Underlying Health Issues,57.40720833333333,25.046999999999997,91.85,Delaware
+189,FL,Active smoking in adults 18+,19.185935085007724,5.1,37.9,Florida
+190,FL,Asthma prevalence among adults 18+,8.755950540958251,5.8,14.4,Florida
+191,FL,COPD prevalence among adults 18+,8.219938176197836,1.5,20.4,Florida
+192,FL,Cancer prevalence in adults 18+,6.310973724884081,0.8,19.8,Florida
+193,FL,Coronary heart disease prevalence in adults 18+,6.892735703245746,0.6,20.9,Florida
+194,FL,Covid-19 Vulnerability Index,53.524251159196275,0.0,100.0,Florida
+195,FL,Diabetes prevalence in adults 18+,11.4967542503864,1.1,30.9,Florida
+196,FL,Health Infrastructure,52.27948425196851,4.133,100.0,Florida
+197,FL,High blood pressure prevalence in adults 18+,33.59528593508508,7.8,67.2,Florida
+198,FL,"Number of hospital beds per 1,000 pop. within 25km radius",3.2371723338485316,0.517,6.421,Florida
+199,FL,"Number of urgent care facilities per 1,000 pop. within 25km radius",7.785292913385826,0.405,28.461,Florida
+200,FL,"Nursing home population per 1,000",8.175948778565797,0.0,88.617,Florida
+201,FL,Percentage of pop. 18-64 with no health insurance,23.797913446676965,8.7,52.4,Florida
+202,FL,Population Demographics,39.81849922720252,0.0,100.0,Florida
+203,FL,"Population aged 60-69, percentage of total pop.",11.535982225656891,0.0,32.404,Florida
+204,FL,"Population aged 70-79, percentage of total pop.",7.127523956723334,0.0,35.578,Florida
+205,FL,"Population aged 80+, percentage of total pop.",4.719227975270484,0.0,37.589,Florida
+206,FL,"Population density per 10,000",23.702912673879492,0.172,290.526,Florida
+207,FL,"Prison population per 1,000",0.9415412130637637,0.0,204.537,Florida
+208,FL,Ratio of the population to primary care physicians,79.73106646058733,38.0,149.0,Florida
+209,FL,Underlying Health Issues,50.80921251931987,0.0,100.0,Florida
+210,GA,Active smoking in adults 18+,19.839639639639636,7.7,38.3,Georgia
+211,GA,Asthma prevalence among adults 18+,9.89662162162162,6.3,14.5,Georgia
+212,GA,COPD prevalence among adults 18+,7.084684684684688,1.8,14.8,Georgia
+213,GA,Cancer prevalence in adults 18+,5.464639639639644,0.9,12.2,Georgia
+214,GA,Coronary heart disease prevalence in adults 18+,5.900225225225227,1.0,13.7,Georgia
+215,GA,Covid-19 Vulnerability Index,46.732889639639644,0.0,100.0,Georgia
+216,GA,Diabetes prevalence in adults 18+,11.955630630630631,1.9,26.5,Georgia
+217,GA,Health Infrastructure,50.86609234234235,2.987,99.28299999999999,Georgia
+218,GA,High blood pressure prevalence in adults 18+,34.02860360360359,9.4,55.8,Georgia
+219,GA,"Number of hospital beds per 1,000 pop. within 25km radius",3.213279279279278,0.9490000000000001,6.577999999999999,Georgia
+220,GA,"Number of urgent care facilities per 1,000 pop. within 25km radius",5.1350180180180205,0.198,28.846,Georgia
+221,GA,"Nursing home population per 1,000",4.955020547945203,0.0,87.256,Georgia
+222,GA,Percentage of pop. 18-64 with no health insurance,22.033783783783793,7.8,45.3,Georgia
+223,GA,Population Demographics,28.059745495495495,0.0,100.0,Georgia
+224,GA,"Population aged 60-69, percentage of total pop.",9.771159909909905,0.156,22.750999999999998,Georgia
+225,GA,"Population aged 70-79, percentage of total pop.",5.269621621621628,0.0,18.302,Georgia
+226,GA,"Population aged 80+, percentage of total pop.",3.051216216216217,0.0,15.981,Georgia
+227,GA,"Population density per 10,000",13.059200450450447,0.045,96.66,Georgia
+228,GA,"Prison population per 1,000",1.3641350114416475,0.0,113.125,Georgia
+229,GA,Ratio of the population to primary care physicians,98.38513513513513,21.0,128.0,Georgia
+230,GA,Underlying Health Issues,46.93150450450446,0.0,100.0,Georgia
+231,HI,Active smoking in adults 18+,13.564806866952784,6.6,30.0,Hawaii
+232,HI,Asthma prevalence among adults 18+,8.850214592274675,6.5,13.1,Hawaii
+233,HI,COPD prevalence among adults 18+,3.7231759656652366,1.5,8.3,Hawaii
+234,HI,Cancer prevalence in adults 18+,5.400429184549351,0.9,10.9,Hawaii
+235,HI,Coronary heart disease prevalence in adults 18+,4.349785407725318,0.5,8.5,Hawaii
+236,HI,Covid-19 Vulnerability Index,40.402175965665236,0.0,100.0,Hawaii
+237,HI,Diabetes prevalence in adults 18+,10.963090128755363,1.1,21.1,Hawaii
+238,HI,Health Infrastructure,58.634734782608724,5.9270000000000005,83.93700000000001,Hawaii
+239,HI,High blood pressure prevalence in adults 18+,30.03948497854076,9.4,43.0,Hawaii
+240,HI,"Number of hospital beds per 1,000 pop. within 25km radius",1.5209914163090137,0.35100000000000003,1.742,Hawaii
+241,HI,"Number of urgent care facilities per 1,000 pop. within 25km radius",3.323330434782608,0.0,27.778000000000002,Hawaii
+242,HI,"Nursing home population per 1,000",1.73343347639485,0.0,81.242,Hawaii
+243,HI,Percentage of pop. 18-64 with no health insurance,9.04334763948498,4.4,22.2,Hawaii
+244,HI,Population Demographics,42.342660944206,0.0,100.0,Hawaii
+245,HI,"Population aged 60-69, percentage of total pop.",11.419536480686697,0.0,25.465,Hawaii
+246,HI,"Population aged 70-79, percentage of total pop.",6.779875536480683,0.0,26.939,Hawaii
+247,HI,"Population aged 80+, percentage of total pop.",5.397227467811162,0.0,35.0,Hawaii
+248,HI,"Population density per 10,000",46.65274248927038,0.025,342.531,Hawaii
+249,HI,"Prison population per 1,000",0.601695652173913,0.0,71.83800000000001,Hawaii
+250,HI,Ratio of the population to primary care physicians,91.0,91.0,91.0,Hawaii
+251,HI,Underlying Health Issues,32.948034334763946,0.0,70.354,Hawaii
+252,IA,Active smoking in adults 18+,20.24157894736842,9.3,32.6,Iowa
+253,IA,Asthma prevalence among adults 18+,9.694736842105257,8.0,12.9,Iowa
+254,IA,COPD prevalence among adults 18+,6.444210526315793,3.2,12.2,Iowa
+255,IA,Cancer prevalence in adults 18+,6.26052631578947,1.5,10.5,Iowa
+256,IA,Coronary heart disease prevalence in adults 18+,5.738947368421051,1.9,12.1,Iowa
+257,IA,Covid-19 Vulnerability Index,42.581689473684214,0.0,84.116,Iowa
+258,IA,Diabetes prevalence in adults 18+,9.56736842105263,3.2,20.8,Iowa
+259,IA,Health Infrastructure,43.59632748538011,20.514,62.006,Iowa
+260,IA,High blood pressure prevalence in adults 18+,29.86368421052632,13.9,48.1,Iowa
+261,IA,"Number of hospital beds per 1,000 pop. within 25km radius",3.7978654970760335,2.812,6.102,Iowa
+262,IA,"Number of urgent care facilities per 1,000 pop. within 25km radius",2.440505263157894,0.359,8.315,Iowa
+263,IA,"Nursing home population per 1,000",9.661521505376344,0.0,80.05,Iowa
+264,IA,Percentage of pop. 18-64 with no health insurance,11.433157894736842,4.6,27.1,Iowa
+265,IA,Population Demographics,32.479615789473684,2.8569999999999998,100.0,Iowa
+266,IA,"Population aged 60-69, percentage of total pop.",10.135931578947371,0.866,18.987000000000002,Iowa
+267,IA,"Population aged 70-79, percentage of total pop.",5.438173684210531,0.6920000000000001,12.5,Iowa
+268,IA,"Population aged 80+, percentage of total pop.",3.679589473684208,0.0,16.158,Iowa
+269,IA,"Population density per 10,000",12.953468421052632,0.124,76.622,Iowa
+270,IA,"Prison population per 1,000",3.0805744680851066,0.0,148.782,Iowa
+271,IA,Ratio of the population to primary care physicians,90.09473684210526,61.0,172.0,Iowa
+272,IA,Underlying Health Issues,41.348884210526315,3.321,87.5,Iowa
+273,ID,Active smoking in adults 18+,14.717910447761193,8.5,23.0,Idaho
+274,ID,Asthma prevalence among adults 18+,9.459701492537315,8.3,11.1,Idaho
+275,ID,COPD prevalence among adults 18+,5.052238805970148,3.0,8.4,Idaho
+276,ID,Cancer prevalence in adults 18+,6.202985074626866,2.9,10.9,Idaho
+277,ID,Coronary heart disease prevalence in adults 18+,5.053731343283583,3.0,9.9,Idaho
+278,ID,Covid-19 Vulnerability Index,37.433298507462695,14.962,75.919,Idaho
+279,ID,Diabetes prevalence in adults 18+,7.841791044776119,5.0,13.5,Idaho
+280,ID,Health Infrastructure,61.74889552238808,43.457,100.0,Idaho
+281,ID,High blood pressure prevalence in adults 18+,27.556716417910447,19.0,41.2,Idaho
+282,ID,"Number of hospital beds per 1,000 pop. within 25km radius",2.367850746268655,0.8809999999999999,3.435,Idaho
+283,ID,"Number of urgent care facilities per 1,000 pop. within 25km radius",2.698925373134329,0.573,12.209000000000001,Idaho
+284,ID,"Nursing home population per 1,000",11.733283582089557,0.0,77.8,Idaho
+285,ID,Percentage of pop. 18-64 with no health insurance,15.482089552238806,7.8,35.4,Idaho
+286,ID,Population Demographics,32.023820895522384,7.922999999999999,67.249,Idaho
+287,ID,"Population aged 60-69, percentage of total pop.",10.590970149253735,4.433,21.041,Idaho
+288,ID,"Population aged 70-79, percentage of total pop.",5.981805970149253,0.42,14.49,Idaho
+289,ID,"Population aged 80+, percentage of total pop.",3.263194029850747,0.483,9.58,Idaho
+290,ID,"Population density per 10,000",13.10228358208955,0.068,29.98,Idaho
+291,ID,"Prison population per 1,000",0.5469090909090909,0.0,30.965999999999998,Idaho
+292,ID,Ratio of the population to primary care physicians,80.46268656716418,33.0,93.0,Idaho
+293,ID,Underlying Health Issues,33.032298507462684,14.535,68.52199999999999,Idaho
+294,IL,Active smoking in adults 18+,18.437509727626452,5.0,35.6,Illinois
+295,IL,Asthma prevalence among adults 18+,9.446225680933859,6.7,14.9,Illinois
+296,IL,COPD prevalence among adults 18+,6.558910505836581,1.3,17.5,Illinois
+297,IL,Cancer prevalence in adults 18+,5.3129961089494175,0.9,20.4,Illinois
+298,IL,Coronary heart disease prevalence in adults 18+,5.429961089494165,0.3,15.9,Illinois
+299,IL,Covid-19 Vulnerability Index,41.5798108949417,0.0,100.0,Illinois
+300,IL,Diabetes prevalence in adults 18+,10.991517509727634,0.9,26.5,Illinois
+301,IL,Health Infrastructure,39.51856347256346,0.0,100.0,Illinois
+302,IL,High blood pressure prevalence in adults 18+,31.30817120622569,7.2,59.0,Illinois
+303,IL,"Number of hospital beds per 1,000 pop. within 25km radius",3.012918287937761,0.85,4.937,Illinois
+304,IL,"Number of urgent care facilities per 1,000 pop. within 25km radius",9.42386977886978,0.2,29.052,Illinois
+305,IL,"Nursing home population per 1,000",4.738459288537554,0.0,86.26100000000001,Illinois
+306,IL,Percentage of pop. 18-64 with no health insurance,16.73821011673153,5.2,43.3,Illinois
+307,IL,Population Demographics,28.94273463035019,0.0,100.0,Illinois
+308,IL,"Population aged 60-69, percentage of total pop.",9.610912062256805,0.0,27.805999999999997,Illinois
+309,IL,"Population aged 70-79, percentage of total pop.",5.322589883268476,0.0,21.403000000000002,Illinois
+310,IL,"Population aged 80+, percentage of total pop.",3.17930038910506,0.0,30.416999999999998,Illinois
+311,IL,"Population density per 10,000",52.182554863813266,0.092,1016.337,Illinois
+312,IL,"Prison population per 1,000",0.6690031250000001,0.0,155.621,Illinois
+313,IL,Ratio of the population to primary care physicians,92.92062256809338,37.0,132.0,Illinois
+314,IL,Underlying Health Issues,41.50985680933853,0.0,100.0,Illinois
+315,IN,Active smoking in adults 18+,23.46984435797664,9.9,38.9,Indiana
+316,IN,Asthma prevalence among adults 18+,11.096498054474702,8.1,15.5,Indiana
+317,IN,COPD prevalence among adults 18+,8.749027237354086,2.8,15.9,Indiana
+318,IN,Cancer prevalence in adults 18+,6.021011673151747,0.8,14.7,Indiana
+319,IN,Coronary heart disease prevalence in adults 18+,6.844552529182882,0.9,15.3,Indiana
+320,IN,Covid-19 Vulnerability Index,54.62569649805445,0.0,100.0,Indiana
+321,IN,Diabetes prevalence in adults 18+,12.585408560311276,1.7,29.0,Indiana
+322,IN,Health Infrastructure,55.98302339181292,26.904,81.804,Indiana
+323,IN,High blood pressure prevalence in adults 18+,35.667704280155625,10.7,59.4,Indiana
+324,IN,"Number of hospital beds per 1,000 pop. within 25km radius",2.7471498054474703,1.445,4.455,Indiana
+325,IN,"Number of urgent care facilities per 1,000 pop. within 25km radius",3.6767231968810914,0.337,19.264,Indiana
+326,IN,"Nursing home population per 1,000",1.9865341130604293,0.0,88.256,Indiana
+327,IN,Percentage of pop. 18-64 with no health insurance,15.293968871595332,5.6,32.0,Indiana
+328,IN,Population Demographics,29.844955252918286,0.0,100.0,Indiana
+329,IN,"Population aged 60-69, percentage of total pop.",10.108850194552533,0.0,23.76,Indiana
+330,IN,"Population aged 70-79, percentage of total pop.",5.299428015564205,0.0,76.471,Indiana
+331,IN,"Population aged 80+, percentage of total pop.",3.502782101167318,0.0,21.982,Indiana
+332,IN,"Population density per 10,000",12.873118677042795,0.044000000000000004,46.908,Indiana
+333,IN,"Prison population per 1,000",1.7780882352941176,0.0,177.262,Indiana
+334,IN,Ratio of the population to primary care physicians,80.7295719844358,55.0,142.0,Indiana
+335,IN,Underlying Health Issues,55.41572568093383,0.0,100.0,Indiana
+336,KS,Active smoking in adults 18+,19.621548821548824,6.8,33.4,Kansas
+337,KS,Asthma prevalence among adults 18+,9.50707070707071,7.4,14.2,Kansas
+338,KS,COPD prevalence among adults 18+,6.396632996632995,2.5,12.9,Kansas
+339,KS,Cancer prevalence in adults 18+,6.1020202020202,1.0,12.1,Kansas
+340,KS,Coronary heart disease prevalence in adults 18+,5.83838383838384,1.4,13.0,Kansas
+341,KS,Covid-19 Vulnerability Index,46.05855555555558,2.194,100.0,Kansas
+342,KS,Diabetes prevalence in adults 18+,10.959595959595948,2.8,26.7,Kansas
+343,KS,Health Infrastructure,57.78482312925169,5.877999999999999,100.0,Kansas
+344,KS,High blood pressure prevalence in adults 18+,32.4441077441077,13.4,57.5,Kansas
+345,KS,"Number of hospital beds per 1,000 pop. within 25km radius",2.7524444444444467,0.879,4.8919999999999995,Kansas
+346,KS,"Number of urgent care facilities per 1,000 pop. within 25km radius",3.8039489795918326,0.25,27.293000000000003,Kansas
+347,KS,"Nursing home population per 1,000",7.412155405405404,0.0,85.415,Kansas
+348,KS,Percentage of pop. 18-64 with no health insurance,18.187205387205392,7.0,44.8,Kansas
+349,KS,Population Demographics,31.141936026936005,0.0,100.0,Kansas
+350,KS,"Population aged 60-69, percentage of total pop.",10.479996632996622,0.0,21.504,Kansas
+351,KS,"Population aged 70-79, percentage of total pop.",5.355905723905726,0.069,13.515,Kansas
+352,KS,"Population aged 80+, percentage of total pop.",3.4851784511784496,0.096,17.863,Kansas
+353,KS,"Population density per 10,000",12.03613804713804,0.18600000000000003,47.093999999999994,Kansas
+354,KS,"Prison population per 1,000",2.388135135135135,0.0,176.24400000000003,Kansas
+355,KS,Ratio of the population to primary care physicians,84.26936026936026,42.0,120.0,Kansas
+356,KS,Underlying Health Issues,44.27722222222223,0.604,100.0,Kansas
+357,KY,Active smoking in adults 18+,22.358015267175567,9.6,42.2,Kentucky
+358,KY,Asthma prevalence among adults 18+,10.700381679389308,8.3,16.2,Kentucky
+359,KY,COPD prevalence among adults 18+,9.142748091603053,3.6,17.2,Kentucky
+360,KY,Cancer prevalence in adults 18+,6.4022900763358805,0.9,13.7,Kentucky
+361,KY,Coronary heart disease prevalence in adults 18+,7.019847328244272,1.4,15.4,Kentucky
+362,KY,Covid-19 Vulnerability Index,54.64870610687025,0.608,100.0,Kentucky
+363,KY,Diabetes prevalence in adults 18+,11.53931297709924,2.5,23.7,Kentucky
+364,KY,Health Infrastructure,31.72480534351147,0.0,52.165,Kentucky
+365,KY,High blood pressure prevalence in adults 18+,37.44618320610687,14.9,58.2,Kentucky
+366,KY,"Number of hospital beds per 1,000 pop. within 25km radius",3.6012824427480985,1.7730000000000001,5.789,Kentucky
+367,KY,"Number of urgent care facilities per 1,000 pop. within 25km radius",4.964221374045803,1.123,25.346,Kentucky
+368,KY,"Nursing home population per 1,000",5.27223076923077,0.0,69.637,Kentucky
+369,KY,Percentage of pop. 18-64 with no health insurance,9.559160305343507,3.3,23.8,Kentucky
+370,KY,Population Demographics,32.477061068702305,0.0,95.044,Kentucky
+371,KY,"Population aged 60-69, percentage of total pop.",11.115251908396944,0.16,28.34,Kentucky
+372,KY,"Population aged 70-79, percentage of total pop.",5.653851145038169,0.096,16.334,Kentucky
+373,KY,"Population aged 80+, percentage of total pop.",3.646572519083971,0.0,12.815999999999999,Kentucky
+374,KY,"Population density per 10,000",15.348251908396946,0.155,46.01,Kentucky
+375,KY,"Prison population per 1,000",0.48796124031007754,0.0,116.891,Kentucky
+376,KY,Ratio of the population to primary care physicians,104.76335877862596,96.0,124.0,Kentucky
+377,KY,Underlying Health Issues,56.78350000000001,4.169,100.0,Kentucky
+378,LA,Active smoking in adults 18+,22.968834688346885,9.5,45.9,Louisiana
+379,LA,Asthma prevalence among adults 18+,9.97669376693767,7.0,16.1,Louisiana
+380,LA,COPD prevalence among adults 18+,8.109214092140927,3.0,18.4,Louisiana
+381,LA,Cancer prevalence in adults 18+,5.784281842818428,1.2,10.7,Louisiana
+382,LA,Coronary heart disease prevalence in adults 18+,6.850406504065037,1.2,15.2,Louisiana
+383,LA,Covid-19 Vulnerability Index,55.80831165311656,0.0,100.0,Louisiana
+384,LA,Diabetes prevalence in adults 18+,13.822222222222221,2.1,30.1,Louisiana
+385,LA,Health Infrastructure,43.83815489130436,1.979,72.423,Louisiana
+386,LA,High blood pressure prevalence in adults 18+,40.13062330623309,12.9,61.1,Louisiana
+387,LA,"Number of hospital beds per 1,000 pop. within 25km radius",3.1803631436314443,2.0269999999999997,4.975,Louisiana
+388,LA,"Number of urgent care facilities per 1,000 pop. within 25km radius",5.281567934782608,0.273,27.026999999999997,Louisiana
+389,LA,"Nursing home population per 1,000",0.1103821138211382,0.0,20.680999999999997,Louisiana
+390,LA,Percentage of pop. 18-64 with no health insurance,15.188346883468835,4.9,30.5,Louisiana
+391,LA,Population Demographics,31.151569105691053,0.0,93.89299999999999,Louisiana
+392,LA,"Population aged 60-69, percentage of total pop.",11.25107046070461,0.0,24.820999999999998,Louisiana
+393,LA,"Population aged 70-79, percentage of total pop.",5.786178861788616,0.0,24.639,Louisiana
+394,LA,"Population aged 80+, percentage of total pop.",3.4836666666666707,0.0,13.517000000000001,Louisiana
+395,LA,"Population density per 10,000",19.014571815718163,0.076,121.712,Louisiana
+396,LA,"Prison population per 1,000",0.3801868131868132,0.0,111.87200000000001,Louisiana
+397,LA,Ratio of the population to primary care physicians,95.88346883468834,43.0,118.0,Louisiana
+398,LA,Underlying Health Issues,57.479428184281815,0.0,100.0,Louisiana
+399,MA,Active smoking in adults 18+,17.935743801652883,4.3,40.1,Massachusetts
+400,MA,Asthma prevalence among adults 18+,11.261983471074368,7.9,15.2,Massachusetts
+401,MA,COPD prevalence among adults 18+,6.306404958677689,1.7,15.6,Massachusetts
+402,MA,Cancer prevalence in adults 18+,5.577685950413227,0.8,13.0,Massachusetts
+403,MA,Coronary heart disease prevalence in adults 18+,5.160123966942151,0.7,14.2,Massachusetts
+404,MA,Covid-19 Vulnerability Index,39.275549586776854,0.0,100.0,Massachusetts
+405,MA,Diabetes prevalence in adults 18+,9.71136363636363,1.4,22.7,Massachusetts
+406,MA,Health Infrastructure,47.03373695198325,0.0,94.72399999999999,Massachusetts
+407,MA,High blood pressure prevalence in adults 18+,27.390909090909076,7.3,46.7,Massachusetts
+408,MA,"Number of hospital beds per 1,000 pop. within 25km radius",2.4594070247933852,0.8390000000000001,3.2910000000000004,Massachusetts
+409,MA,"Number of urgent care facilities per 1,000 pop. within 25km radius",2.856797494780795,0.327,21.276999999999997,Massachusetts
+410,MA,"Nursing home population per 1,000",1.8731570247933893,0.0,83.984,Massachusetts
+411,MA,Percentage of pop. 18-64 with no health insurance,11.238016528925607,2.4,35.1,Massachusetts
+412,MA,Population Demographics,28.91645661157024,0.0,100.0,Massachusetts
+413,MA,"Population aged 60-69, percentage of total pop.",9.268971074380161,0.0,50.0,Massachusetts
+414,MA,"Population aged 70-79, percentage of total pop.",5.030417355371897,0.0,15.385,Massachusetts
+415,MA,"Population aged 80+, percentage of total pop.",3.3560289256198335,0.0,18.972,Massachusetts
+416,MA,"Population density per 10,000",65.18054338842978,0.37200000000000005,381.494,Massachusetts
+417,MA,"Prison population per 1,000",0.7189045643153525,0.0,154.72,Massachusetts
+418,MA,Ratio of the population to primary care physicians,112.4607438016529,52.0,149.0,Massachusetts
+419,MA,Underlying Health Issues,37.920669421487595,0.0,100.0,Massachusetts
+420,MD,Active smoking in adults 18+,22.407537688442225,8.8,38.4,Maryland
+421,MD,Asthma prevalence among adults 18+,11.480402010050254,7.7,15.6,Maryland
+422,MD,COPD prevalence among adults 18+,7.440201005025125,2.4,14.9,Maryland
+423,MD,Cancer prevalence in adults 18+,5.567839195979901,1.8,12.6,Maryland
+424,MD,Coronary heart disease prevalence in adults 18+,5.944723618090454,1.5,13.6,Maryland
+425,MD,Covid-19 Vulnerability Index,50.13199999999999,0.0,100.0,Maryland
+426,MD,Diabetes prevalence in adults 18+,12.996482412060297,2.7,25.9,Maryland
+427,MD,Health Infrastructure,32.86097989949748,0.0,51.681999999999995,Maryland
+428,MD,High blood pressure prevalence in adults 18+,37.08844221105527,11.6,56.7,Maryland
+429,MD,"Number of hospital beds per 1,000 pop. within 25km radius",3.2606582914572875,3.0189999999999997,3.761,Maryland
+430,MD,"Number of urgent care facilities per 1,000 pop. within 25km radius",8.890688442211054,2.863,27.059,Maryland
+431,MD,"Nursing home population per 1,000",8.096659793814434,0.0,80.513,Maryland
+432,MD,Percentage of pop. 18-64 with no health insurance,13.097989949748738,4.2,24.5,Maryland
+433,MD,Population Demographics,29.76783919597991,1.5290000000000001,100.0,Maryland
+434,MD,"Population aged 60-69, percentage of total pop.",10.570447236180907,0.6659999999999999,30.706,Maryland
+435,MD,"Population aged 70-79, percentage of total pop.",5.129894472361809,0.0,13.921,Maryland
+436,MD,"Population aged 80+, percentage of total pop.",3.180482412060303,0.0,20.0,Maryland
+437,MD,"Population density per 10,000",46.046512562814094,4.678999999999999,235.175,Maryland
+438,MD,"Prison population per 1,000",1.784080808080808,0.0,184.791,Maryland
+439,MD,Ratio of the population to primary care physicians,97.0,97.0,97.0,Maryland
+440,MD,Underlying Health Issues,52.067673366834164,0.0,100.0,Maryland
+441,ME,Active smoking in adults 18+,15.66,9.9,24.7,Maine
+442,ME,Asthma prevalence among adults 18+,10.364999999999998,9.3,12.1,Maine
+443,ME,COPD prevalence among adults 18+,5.85,4.0,8.1,Maine
+444,ME,Cancer prevalence in adults 18+,6.3199999999999985,3.7,9.5,Maine
+445,ME,Coronary heart disease prevalence in adults 18+,4.9799999999999995,3.2,7.4,Maine
+446,ME,Covid-19 Vulnerability Index,35.9336,15.665,63.059,Maine
+447,ME,Diabetes prevalence in adults 18+,7.295,5.3,10.2,Maine
+448,ME,Health Infrastructure,30.79265,20.371,40.749,Maine
+449,ME,High blood pressure prevalence in adults 18+,26.28,20.7,33.3,Maine
+450,ME,"Number of hospital beds per 1,000 pop. within 25km radius",2.9516499999999994,2.9160000000000004,3.6289999999999996,Maine
+451,ME,"Number of urgent care facilities per 1,000 pop. within 25km radius",1.7252000000000003,0.8490000000000001,3.843,Maine
+452,ME,"Nursing home population per 1,000",9.802299999999999,0.0,61.461999999999996,Maine
+453,ME,Percentage of pop. 18-64 with no health insurance,12.939999999999998,7.4,21.9,Maine
+454,ME,Population Demographics,33.44165,3.9530000000000003,77.137,Maine
+455,ME,"Population aged 60-69, percentage of total pop.",10.396200000000002,5.023,18.217,Maine
+456,ME,"Population aged 70-79, percentage of total pop.",6.09595,1.942,18.985,Maine
+457,ME,"Population aged 80+, percentage of total pop.",3.4701,0.0,11.277000000000001,Maine
+458,ME,"Population density per 10,000",29.296150000000004,1.063,91.447,Maine
+459,ME,"Prison population per 1,000",6.22025,0.0,124.405,Maine
+460,ME,Ratio of the population to primary care physicians,167.0,167.0,167.0,Maine
+461,ME,Underlying Health Issues,33.62015,18.421,54.703,Maine
+462,MI,Active smoking in adults 18+,23.77513812154695,7.0,50.3,Michigan
+463,MI,Asthma prevalence among adults 18+,12.295441988950286,7.5,17.5,Michigan
+464,MI,COPD prevalence among adults 18+,8.959668508287297,2.3,18.4,Michigan
+465,MI,Cancer prevalence in adults 18+,6.253176795580115,0.9,13.5,Michigan
+466,MI,Coronary heart disease prevalence in adults 18+,7.529005524861881,0.9,16.3,Michigan
+467,MI,Covid-19 Vulnerability Index,57.895895027624356,0.0,100.0,Michigan
+468,MI,Diabetes prevalence in adults 18+,13.82527624309393,1.4,29.3,Michigan
+469,MI,Health Infrastructure,30.02040287769783,0.0,84.63,Michigan
+470,MI,High blood pressure prevalence in adults 18+,38.522790055248606,8.4,60.2,Michigan
+471,MI,"Number of hospital beds per 1,000 pop. within 25km radius",3.2202790055248576,1.7590000000000001,4.952,Michigan
+472,MI,"Number of urgent care facilities per 1,000 pop. within 25km radius",12.376834532374103,0.371,29.034000000000002,Michigan
+473,MI,"Nursing home population per 1,000",0.0,0.0,0.0,Michigan
+474,MI,Percentage of pop. 18-64 with no health insurance,14.3653314917127,4.2,36.5,Michigan
+475,MI,Population Demographics,32.76972651933701,0.0,100.0,Michigan
+476,MI,"Population aged 60-69, percentage of total pop.",11.006129834254159,0.0,30.601999999999997,Michigan
+477,MI,"Population aged 70-79, percentage of total pop.",5.733288674033152,0.0,30.573,Michigan
+478,MI,"Population aged 80+, percentage of total pop.",3.9036795580110475,0.0,17.776,Michigan
+479,MI,"Population density per 10,000",18.139501381215446,0.287,74.443,Michigan
+480,MI,"Prison population per 1,000",0.36955124653739607,0.0,189.016,Michigan
+481,MI,Ratio of the population to primary care physicians,87.32872928176796,35.0,174.0,Michigan
+482,MI,Underlying Health Issues,61.35618370165754,0.0,100.0,Michigan
+483,MN,Active smoking in adults 18+,16.699354838709688,7.8,29.7,Minnesota
+484,MN,Asthma prevalence among adults 18+,8.184838709677422,6.6,11.7,Minnesota
+485,MN,COPD prevalence among adults 18+,4.383870967741934,1.8,11.2,Minnesota
+486,MN,Cancer prevalence in adults 18+,5.627096774193545,1.2,13.2,Minnesota
+487,MN,Coronary heart disease prevalence in adults 18+,4.656129032258067,1.4,16.6,Minnesota
+488,MN,Covid-19 Vulnerability Index,27.40561935483871,0.0,100.0,Minnesota
+489,MN,Diabetes prevalence in adults 18+,7.541935483870975,2.3,18.7,Minnesota
+490,MN,Health Infrastructure,21.0252238267148,0.0,55.451,Minnesota
+491,MN,High blood pressure prevalence in adults 18+,23.832258064516147,10.1,46.4,Minnesota
+492,MN,"Number of hospital beds per 1,000 pop. within 25km radius",3.5063309608541,2.177,5.131,Minnesota
+493,MN,"Number of urgent care facilities per 1,000 pop. within 25km radius",9.803464052287586,0.0,27.443,Minnesota
+494,MN,"Nursing home population per 1,000",4.34041368078176,0.0,83.333,Minnesota
+495,MN,Percentage of pop. 18-64 with no health insurance,12.336774193548395,5.3,26.9,Minnesota
+496,MN,Population Demographics,27.15385806451612,0.0,100.0,Minnesota
+497,MN,"Population aged 60-69, percentage of total pop.",9.72860967741935,0.624,23.305999999999997,Minnesota
+498,MN,"Population aged 70-79, percentage of total pop.",4.7415258064516115,0.0,21.333000000000002,Minnesota
+499,MN,"Population aged 80+, percentage of total pop.",3.089112903225805,0.0,23.678,Minnesota
+500,MN,"Population density per 10,000",25.891380645161263,0.114,141.388,Minnesota
+501,MN,"Prison population per 1,000",2.216483870967742,0.0,194.685,Minnesota
+502,MN,Ratio of the population to primary care physicians,125.16129032258064,107.0,227.0,Minnesota
+503,MN,Underlying Health Issues,26.902090322580655,0.0,100.0,Minnesota
+504,MO,Active smoking in adults 18+,22.636299765807955,10.3,38.3,Missouri
+505,MO,Asthma prevalence among adults 18+,9.921545667447306,7.4,15.4,Missouri
+506,MO,COPD prevalence among adults 18+,8.08173302107728,2.8,15.0,Missouri
+507,MO,Cancer prevalence in adults 18+,6.100702576112413,1.2,13.9,Missouri
+508,MO,Coronary heart disease prevalence in adults 18+,6.396252927400469,1.3,12.3,Missouri
+509,MO,Covid-19 Vulnerability Index,48.40193442622951,0.499,100.0,Missouri
+510,MO,Diabetes prevalence in adults 18+,11.056440281030444,2.0,24.1,Missouri
+511,MO,Health Infrastructure,38.319031026252986,0.0,89.361,Missouri
+512,MO,High blood pressure prevalence in adults 18+,31.764402810304446,10.8,52.9,Missouri
+513,MO,"Number of hospital beds per 1,000 pop. within 25km radius",4.2793207547169825,0.715,6.707999999999999,Missouri
+514,MO,"Number of urgent care facilities per 1,000 pop. within 25km radius",5.895296208530809,0.239,23.465999999999998,Missouri
+515,MO,"Nursing home population per 1,000",8.901693975903612,0.0,83.559,Missouri
+516,MO,Percentage of pop. 18-64 with no health insurance,17.04941451990633,6.4,36.7,Missouri
+517,MO,Population Demographics,32.04841686182669,0.0,100.0,Missouri
+518,MO,"Population aged 60-69, percentage of total pop.",10.67431147540985,0.536,24.283,Missouri
+519,MO,"Population aged 70-79, percentage of total pop.",5.664538641686182,0.11599999999999999,22.471999999999998,Missouri
+520,MO,"Population aged 80+, percentage of total pop.",3.4922177985948477,0.0,21.009,Missouri
+521,MO,"Population density per 10,000",14.57689227166276,0.063,55.676,Missouri
+522,MO,"Prison population per 1,000",1.6899316037735848,0.0,179.972,Missouri
+523,MO,Ratio of the population to primary care physicians,81.33255269320843,25.0,109.0,Missouri
+524,MO,Underlying Health Issues,48.7066159250585,0.0,100.0,Missouri
+525,MS,Active smoking in adults 18+,24.053333333333335,9.8,34.2,Mississippi
+526,MS,Asthma prevalence among adults 18+,11.127999999999998,7.6,13.7,Mississippi
+527,MS,COPD prevalence among adults 18+,7.577333333333337,2.2,13.2,Mississippi
+528,MS,Cancer prevalence in adults 18+,5.466666666666666,1.0,9.7,Mississippi
+529,MS,Coronary heart disease prevalence in adults 18+,6.821333333333333,0.9,13.9,Mississippi
+530,MS,Covid-19 Vulnerability Index,56.18878666666667,0.0,100.0,Mississippi
+531,MS,Diabetes prevalence in adults 18+,14.59333333333333,2.2,28.6,Mississippi
+532,MS,Health Infrastructure,44.114783783783786,15.818,79.025,Mississippi
+533,MS,High blood pressure prevalence in adults 18+,42.2,14.1,61.4,Mississippi
+534,MS,"Number of hospital beds per 1,000 pop. within 25km radius",4.939586666666667,2.918,5.78,Mississippi
+535,MS,"Number of urgent care facilities per 1,000 pop. within 25km radius",4.168662162162161,0.55,14.228,Mississippi
+536,MS,"Nursing home population per 1,000",6.909213333333334,0.0,83.229,Mississippi
+537,MS,Percentage of pop. 18-64 with no health insurance,22.18,8.3,34.0,Mississippi
+538,MS,Population Demographics,28.50169333333334,0.0,83.096,Mississippi
+539,MS,"Population aged 60-69, percentage of total pop.",9.972199999999997,0.0,19.004,Mississippi
+540,MS,"Population aged 70-79, percentage of total pop.",5.09564,0.0,13.205,Mississippi
+541,MS,"Population aged 80+, percentage of total pop.",3.072213333333332,0.0,12.520999999999999,Mississippi
+542,MS,"Population density per 10,000",7.756293333333333,0.185,22.221999999999998,Mississippi
+543,MS,"Prison population per 1,000",4.998189189189189,0.0,185.387,Mississippi
+544,MS,Ratio of the population to primary care physicians,70.24,56.0,136.0,Mississippi
+545,MS,Underlying Health Issues,58.92167999999999,0.0,100.0,Mississippi
+546,MT,Active smoking in adults 18+,18.08837209302326,12.3,27.4,Montana
+547,MT,Asthma prevalence among adults 18+,9.416279069767443,8.4,11.1,Montana
+548,MT,COPD prevalence among adults 18+,5.776744186046513,3.4,8.3,Montana
+549,MT,Cancer prevalence in adults 18+,6.899999999999999,3.1,13.7,Montana
+550,MT,Coronary heart disease prevalence in adults 18+,5.351162790697674,2.5,10.9,Montana
+551,MT,Covid-19 Vulnerability Index,38.38397674418604,8.725,79.543,Montana
+552,MT,Diabetes prevalence in adults 18+,7.183720930232559,3.5,11.0,Montana
+553,MT,Health Infrastructure,47.56218604651162,42.576,54.765,Montana
+554,MT,High blood pressure prevalence in adults 18+,25.139534883720934,14.1,39.7,Montana
+555,MT,"Number of hospital beds per 1,000 pop. within 25km radius",3.606674418604651,3.1910000000000003,3.853,Montana
+556,MT,"Number of urgent care facilities per 1,000 pop. within 25km radius",0.6147674418604651,0.071,3.3089999999999997,Montana
+557,MT,"Nursing home population per 1,000",10.497904761904762,0.0,72.072,Montana
+558,MT,Percentage of pop. 18-64 with no health insurance,11.451162790697673,7.5,18.5,Montana
+559,MT,Population Demographics,35.12886046511628,12.367,100.0,Montana
+560,MT,"Population aged 60-69, percentage of total pop.",11.344697674418608,3.861,17.846,Montana
+561,MT,"Population aged 70-79, percentage of total pop.",6.0206279069767445,2.115,10.552999999999999,Montana
+562,MT,"Population aged 80+, percentage of total pop.",3.8538604651162793,0.32799999999999996,18.864,Montana
+563,MT,"Population density per 10,000",10.773395348837205,0.047,27.967,Montana
+564,MT,"Prison population per 1,000",5.362395348837208,0.0,88.818,Montana
+565,MT,Ratio of the population to primary care physicians,88.97674418604652,86.0,94.0,Montana
+566,MT,Underlying Health Issues,34.28123255813953,5.831,75.19,Montana
+567,NC,Active smoking in adults 18+,17.39672774869109,7.5,32.2,North Carolina
+568,NC,Asthma prevalence among adults 18+,9.821204188481664,6.7,14.9,North Carolina
+569,NC,COPD prevalence among adults 18+,6.226963350785347,1.6,13.5,North Carolina
+570,NC,Cancer prevalence in adults 18+,5.540837696335081,0.8,17.5,North Carolina
+571,NC,Coronary heart disease prevalence in adults 18+,4.976047120418851,0.6,16.7,North Carolina
+572,NC,Covid-19 Vulnerability Index,40.52244764397907,0.0,100.0,North Carolina
+573,NC,Diabetes prevalence in adults 18+,9.7140052356021,1.0,23.4,North Carolina
+574,NC,Health Infrastructure,55.9458418972332,6.104,100.0,North Carolina
+575,NC,High blood pressure prevalence in adults 18+,31.310340314136095,8.8,65.1,North Carolina
+576,NC,"Number of hospital beds per 1,000 pop. within 25km radius",2.5395223097113027,0.7559999999999999,6.096,North Carolina
+577,NC,"Number of urgent care facilities per 1,000 pop. within 25km radius",4.641153745072271,0.171,28.986,North Carolina
+578,NC,"Nursing home population per 1,000",7.465343461030381,0.0,83.884,North Carolina
+579,NC,Percentage of pop. 18-64 with no health insurance,17.726570680628257,6.4,43.1,North Carolina
+580,NC,Population Demographics,27.86879057591625,0.0,100.0,North Carolina
+581,NC,"Population aged 60-69, percentage of total pop.",9.654034031413602,0.0,26.726999999999997,North Carolina
+582,NC,"Population aged 70-79, percentage of total pop.",5.165172774869109,0.0,16.664,North Carolina
+583,NC,"Population aged 80+, percentage of total pop.",3.0006282722513076,0.0,16.563,North Carolina
+584,NC,"Population density per 10,000",10.358916230366491,0.17300000000000001,57.035,North Carolina
+585,NC,"Prison population per 1,000",0.6868705416116249,0.0,190.418,North Carolina
+586,NC,Ratio of the population to primary care physicians,89.92277486910994,23.0,143.0,North Carolina
+587,NC,Underlying Health Issues,38.95763350785342,0.0,100.0,North Carolina
+588,ND,Active smoking in adults 18+,18.535999999999998,12.4,23.9,North Dakota
+589,ND,Asthma prevalence among adults 18+,8.544,7.6,9.7,North Dakota
+590,ND,COPD prevalence among adults 18+,4.684,2.0,6.7,North Dakota
+591,ND,Cancer prevalence in adults 18+,5.5,1.3,7.8,North Dakota
+592,ND,Coronary heart disease prevalence in adults 18+,4.732,1.1,6.4,North Dakota
+593,ND,Covid-19 Vulnerability Index,30.75316,0.0,48.043,North Dakota
+594,ND,Diabetes prevalence in adults 18+,7.299999999999999,2.1,9.4,North Dakota
+595,ND,Health Infrastructure,27.5506,19.585,33.155,North Dakota
+596,ND,High blood pressure prevalence in adults 18+,25.631999999999998,10.4,31.2,North Dakota
+597,ND,"Number of hospital beds per 1,000 pop. within 25km radius",4.896,4.896,4.896,North Dakota
+598,ND,"Number of urgent care facilities per 1,000 pop. within 25km radius",1.7778399999999999,0.163,3.802,North Dakota
+599,ND,"Nursing home population per 1,000",0.2516,0.0,6.29,North Dakota
+600,ND,Percentage of pop. 18-64 with no health insurance,10.268000000000002,5.9,14.4,North Dakota
+601,ND,Population Demographics,29.731480000000005,0.0,53.96,North Dakota
+602,ND,"Population aged 60-69, percentage of total pop.",9.57328,2.9019999999999997,19.303,North Dakota
+603,ND,"Population aged 70-79, percentage of total pop.",4.568360000000001,0.6459999999999999,8.283999999999999,North Dakota
+604,ND,"Population aged 80+, percentage of total pop.",3.85752,0.10099999999999999,8.658999999999999,North Dakota
+605,ND,"Population density per 10,000",15.927880000000002,1.159,38.674,North Dakota
+606,ND,"Prison population per 1,000",2.33628,0.0,58.407,North Dakota
+607,ND,Ratio of the population to primary care physicians,102.0,102.0,102.0,North Dakota
+608,ND,Underlying Health Issues,28.877999999999997,0.0,43.218999999999994,North Dakota
+609,NE,Active smoking in adults 18+,17.324766355140184,8.4,30.7,Nebraska
+610,NE,Asthma prevalence among adults 18+,8.664018691588778,7.1,12.0,Nebraska
+611,NE,COPD prevalence among adults 18+,5.392056074766354,2.4,11.1,Nebraska
+612,NE,Cancer prevalence in adults 18+,5.949065420560746,0.9,11.5,Nebraska
+613,NE,Coronary heart disease prevalence in adults 18+,5.350000000000001,0.8,11.1,Nebraska
+614,NE,Covid-19 Vulnerability Index,37.874724299065406,0.0,87.64200000000001,Nebraska
+615,NE,Diabetes prevalence in adults 18+,9.459345794392526,1.4,24.1,Nebraska
+616,NE,Health Infrastructure,39.00209478672986,0.0,69.40100000000001,Nebraska
+617,NE,High blood pressure prevalence in adults 18+,28.607943925233638,7.8,51.8,Nebraska
+618,NE,"Number of hospital beds per 1,000 pop. within 25km radius",3.5871455399061065,1.847,4.652,Nebraska
+619,NE,"Number of urgent care facilities per 1,000 pop. within 25km radius",5.741278301886789,0.862,24.236,Nebraska
+620,NE,"Nursing home population per 1,000",11.210695238095242,0.0,88.42,Nebraska
+621,NE,Percentage of pop. 18-64 with no health insurance,15.310747663551398,6.6,39.4,Nebraska
+622,NE,Population Demographics,30.12259813084112,0.0,100.0,Nebraska
+623,NE,"Population aged 60-69, percentage of total pop.",9.919616822429907,0.0,20.971999999999998,Nebraska
+624,NE,"Population aged 70-79, percentage of total pop.",5.075285046728974,0.0,14.786,Nebraska
+625,NE,"Population aged 80+, percentage of total pop.",3.3592850467289694,0.0,26.666999999999998,Nebraska
+626,NE,"Population density per 10,000",16.33936448598132,0.079,65.736,Nebraska
+627,NE,"Prison population per 1,000",0.7584857142857142,0.0,134.311,Nebraska
+628,NE,Ratio of the population to primary care physicians,95.39719626168224,68.0,109.0,Nebraska
+629,NE,Underlying Health Issues,36.39807009345793,0.0,93.985,Nebraska
+630,NH,Active smoking in adults 18+,18.517021276595745,11.2,26.6,New Hampshire
+631,NH,Asthma prevalence among adults 18+,11.11276595744681,9.5,12.7,New Hampshire
+632,NH,COPD prevalence among adults 18+,7.174468085106384,3.8,11.9,New Hampshire
+633,NH,Cancer prevalence in adults 18+,6.736170212765956,4.2,9.4,New Hampshire
+634,NH,Coronary heart disease prevalence in adults 18+,5.7659574468085095,3.1,10.2,New Hampshire
+635,NH,Covid-19 Vulnerability Index,46.20644680851064,20.019000000000002,89.43700000000001,New Hampshire
+636,NH,Diabetes prevalence in adults 18+,9.255319148936168,6.0,14.2,New Hampshire
+637,NH,Health Infrastructure,59.57968085106385,52.641000000000005,71.895,New Hampshire
+638,NH,High blood pressure prevalence in adults 18+,28.759574468085102,20.8,37.8,New Hampshire
+639,NH,"Number of hospital beds per 1,000 pop. within 25km radius",2.3647659574468083,1.038,2.6719999999999997,New Hampshire
+640,NH,"Number of urgent care facilities per 1,000 pop. within 25km radius",1.5439574468085104,0.672,4.645,New Hampshire
+641,NH,"Nursing home population per 1,000",2.817222222222222,0.0,62.593999999999994,New Hampshire
+642,NH,Percentage of pop. 18-64 with no health insurance,12.487234042553188,7.0,22.8,New Hampshire
+643,NH,Population Demographics,34.695808510638294,5.622999999999999,86.208,New Hampshire
+644,NH,"Population aged 60-69, percentage of total pop.",10.781617021276597,4.499,25.846999999999998,New Hampshire
+645,NH,"Population aged 70-79, percentage of total pop.",5.437276595744681,1.117,11.99,New Hampshire
+646,NH,"Population aged 80+, percentage of total pop.",4.252638297872339,0.44799999999999995,14.134,New Hampshire
+647,NH,"Population density per 10,000",23.060787234042543,4.7780000000000005,75.607,New Hampshire
+648,NH,"Prison population per 1,000",4.254148936170212,0.0,156.955,New Hampshire
+649,NH,Ratio of the population to primary care physicians,86.0,86.0,86.0,New Hampshire
+650,NH,Underlying Health Issues,42.99595744680851,17.939,76.50399999999999,New Hampshire
+651,NJ,Active smoking in adults 18+,20.857236842105262,8.7,35.2,New Jersey
+652,NJ,Asthma prevalence among adults 18+,9.99276315789473,5.7,14.2,New Jersey
+653,NJ,COPD prevalence among adults 18+,6.863815789473681,1.3,13.5,New Jersey
+654,NJ,Cancer prevalence in adults 18+,4.599013157894735,2.0,8.3,New Jersey
+655,NJ,Coronary heart disease prevalence in adults 18+,5.803947368421055,1.0,11.1,New Jersey
+656,NJ,Covid-19 Vulnerability Index,45.746006578947345,0.0,93.25399999999999,New Jersey
+657,NJ,Diabetes prevalence in adults 18+,13.778289473684215,2.5,24.5,New Jersey
+658,NJ,Health Infrastructure,51.756665540540546,0.0,89.46700000000001,New Jersey
+659,NJ,High blood pressure prevalence in adults 18+,34.56875000000001,13.1,53.1,New Jersey
+660,NJ,"Number of hospital beds per 1,000 pop. within 25km radius",2.955625,1.6909999999999998,3.72,New Jersey
+661,NJ,"Number of urgent care facilities per 1,000 pop. within 25km radius",10.513689189189186,0.7140000000000001,27.896,New Jersey
+662,NJ,"Nursing home population per 1,000",2.9787441860465114,0.0,78.986,New Jersey
+663,NJ,Percentage of pop. 18-64 with no health insurance,23.318421052631578,6.7,42.9,New Jersey
+664,NJ,Population Demographics,23.28206249999999,0.0,66.17399999999999,New Jersey
+665,NJ,"Population aged 60-69, percentage of total pop.",8.429036184210517,0.0,17.567999999999998,New Jersey
+666,NJ,"Population aged 70-79, percentage of total pop.",4.46856578947368,0.0,12.345999999999998,New Jersey
+667,NJ,"Population aged 80+, percentage of total pop.",2.394582236842104,0.0,9.293,New Jersey
+668,NJ,"Population density per 10,000",88.87095723684212,0.20199999999999999,371.05800000000005,New Jersey
+669,NJ,"Prison population per 1,000",0.32857094594594594,0.0,62.982,New Jersey
+670,NJ,Ratio of the population to primary care physicians,69.4407894736842,50.0,102.0,New Jersey
+671,NJ,Underlying Health Issues,47.51705263157893,0.0,100.0,New Jersey
+672,NM,Active smoking in adults 18+,16.634951456310684,6.9,29.6,New Mexico
+673,NM,Asthma prevalence among adults 18+,9.816504854368931,7.8,12.2,New Mexico
+674,NM,COPD prevalence among adults 18+,5.3276699029126195,2.8,8.6,New Mexico
+675,NM,Cancer prevalence in adults 18+,6.2155339805825225,2.1,16.1,New Mexico
+676,NM,Coronary heart disease prevalence in adults 18+,5.2873786407767,2.2,9.9,New Mexico
+677,NM,Covid-19 Vulnerability Index,40.75001456310679,5.0089999999999995,100.0,New Mexico
+678,NM,Diabetes prevalence in adults 18+,9.000970873786411,3.1,17.8,New Mexico
+679,NM,Health Infrastructure,56.63928155339807,18.535,84.20100000000001,New Mexico
+680,NM,High blood pressure prevalence in adults 18+,26.699514563106803,12.4,37.4,New Mexico
+681,NM,"Number of hospital beds per 1,000 pop. within 25km radius",2.0700048543689324,1.8319999999999999,3.804,New Mexico
+682,NM,"Number of urgent care facilities per 1,000 pop. within 25km radius",3.617538834951459,0.22899999999999998,17.312,New Mexico
+683,NM,"Nursing home population per 1,000",2.596397058823529,0.0,42.461999999999996,New Mexico
+684,NM,Percentage of pop. 18-64 with no health insurance,13.868446601941754,4.7,29.0,New Mexico
+685,NM,Population Demographics,37.95127184466021,0.0,100.0,New Mexico
+686,NM,"Population aged 60-69, percentage of total pop.",12.271640776699027,0.8220000000000001,33.164,New Mexico
+687,NM,"Population aged 70-79, percentage of total pop.",7.284218446601944,0.0,23.622,New Mexico
+688,NM,"Population aged 80+, percentage of total pop.",4.255873786407765,0.0,48.81399999999999,New Mexico
+689,NM,"Population density per 10,000",14.817499999999999,0.040999999999999995,47.534,New Mexico
+690,NM,"Prison population per 1,000",2.9320000000000004,0.0,144.189,New Mexico
+691,NM,Ratio of the population to primary care physicians,96.09223300970874,60.0,106.0,New Mexico
+692,NM,Underlying Health Issues,35.286305825242714,3.142,70.521,New Mexico
+693,NV,Active smoking in adults 18+,19.78022284122562,8.7,32.5,Nevada
+694,NV,Asthma prevalence among adults 18+,10.052367688022287,8.4,14.8,Nevada
+695,NV,COPD prevalence among adults 18+,7.125626740947083,3.0,13.7,Nevada
+696,NV,Cancer prevalence in adults 18+,5.922005571030639,0.7,17.5,Nevada
+697,NV,Coronary heart disease prevalence in adults 18+,5.75292479108635,1.0,14.1,Nevada
+698,NV,Covid-19 Vulnerability Index,45.04953481894149,0.0,100.0,Nevada
+699,NV,Diabetes prevalence in adults 18+,10.148467966573813,1.6,19.9,Nevada
+700,NV,Health Infrastructure,61.404745762711926,19.090999999999998,87.205,Nevada
+701,NV,High blood pressure prevalence in adults 18+,30.380501392757655,10.8,54.0,Nevada
+702,NV,"Number of hospital beds per 1,000 pop. within 25km radius",1.989445682451257,0.912,4.041,Nevada
+703,NV,"Number of urgent care facilities per 1,000 pop. within 25km radius",8.779584745762712,2.483,28.883000000000003,Nevada
+704,NV,"Nursing home population per 1,000",2.157323033707865,0.0,76.85600000000001,Nevada
+705,NV,Percentage of pop. 18-64 with no health insurance,17.968523676880206,6.3,45.0,Nevada
+706,NV,Population Demographics,31.100665738161574,0.0,100.0,Nevada
+707,NV,"Population aged 60-69, percentage of total pop.",11.445125348189407,0.0,43.398,Nevada
+708,NV,"Population aged 70-79, percentage of total pop.",7.001635097493035,0.625,45.763999999999996,Nevada
+709,NV,"Population aged 80+, percentage of total pop.",3.3346155988857924,0.0,36.56,Nevada
+710,NV,"Population density per 10,000",22.629278551532025,0.085,75.88600000000001,Nevada
+711,NV,"Prison population per 1,000",1.3618851540616246,0.0,152.195,Nevada
+712,NV,Ratio of the population to primary care physicians,59.76323119777159,55.0,74.0,Nevada
+713,NV,Underlying Health Issues,43.02554317548746,0.0,100.0,Nevada
+714,NY,Active smoking in adults 18+,17.005573637103325,5.7,40.8,New York
+715,NY,Asthma prevalence among adults 18+,10.040398698128548,6.6,16.6,New York
+716,NY,COPD prevalence among adults 18+,5.921887713588279,1.3,23.8,New York
+717,NY,Cancer prevalence in adults 18+,5.459845402766471,0.8,18.8,New York
+718,NY,Coronary heart disease prevalence in adults 18+,5.597843775427182,0.4,35.8,New York
+719,NY,Covid-19 Vulnerability Index,42.37849715215612,0.0,100.0,New York
+720,NY,Diabetes prevalence in adults 18+,11.182465419039861,0.9,39.5,New York
+721,NY,Health Infrastructure,44.13384915043517,0.0,81.343,New York
+722,NY,High blood pressure prevalence in adults 18+,29.174857607811273,6.0,70.3,New York
+723,NY,"Number of hospital beds per 1,000 pop. within 25km radius",2.969057363710354,1.7409999999999999,3.8819999999999997,New York
+724,NY,"Number of urgent care facilities per 1,000 pop. within 25km radius",8.861019892250297,0.846,28.906999999999996,New York
+725,NY,"Nursing home population per 1,000",2.805664446294755,0.0,87.883,New York
+726,NY,Percentage of pop. 18-64 with no health insurance,15.80679414157848,3.9,37.6,New York
+727,NY,Population Demographics,34.47424613506908,0.0,100.0,New York
+728,NY,"Population aged 60-69, percentage of total pop.",10.238196501220505,0.0,100.0,New York
+729,NY,"Population aged 70-79, percentage of total pop.",5.7865362082994265,0.0,30.340999999999998,New York
+730,NY,"Population aged 80+, percentage of total pop.",3.8003624898291246,0.0,52.83,New York
+731,NY,"Population density per 10,000",177.74591985353973,0.013000000000000001,1006.355,New York
+732,NY,"Prison population per 1,000",0.28856845965770167,0.0,181.99099999999999,New York
+733,NY,Ratio of the population to primary care physicians,78.5073230268511,57.0,139.0,New York
+734,NY,Underlying Health Issues,39.901293327908895,0.0,100.0,New York
+735,OH,Active smoking in adults 18+,25.81254567600485,10.4,44.1,Ohio
+736,OH,Asthma prevalence among adults 18+,11.120341047503038,7.4,17.8,Ohio
+737,OH,COPD prevalence among adults 18+,9.470401948842895,2.4,22.8,Ohio
+738,OH,Cancer prevalence in adults 18+,5.876492082825819,0.9,15.7,Ohio
+739,OH,Coronary heart disease prevalence in adults 18+,7.513641900121798,1.1,21.3,Ohio
+740,OH,Covid-19 Vulnerability Index,56.944158343483544,0.0,100.0,Ohio
+741,OH,Diabetes prevalence in adults 18+,14.41498172959805,2.0,36.1,Ohio
+742,OH,Health Infrastructure,27.7978608058608,0.0,61.15,Ohio
+743,OH,High blood pressure prevalence in adults 18+,36.739829476248495,9.5,64.5,Ohio
+744,OH,"Number of hospital beds per 1,000 pop. within 25km radius",4.264202192448215,2.435,6.37,Ohio
+745,OH,"Number of urgent care facilities per 1,000 pop. within 25km radius",6.560560439560437,0.978,28.0,Ohio
+746,OH,"Nursing home population per 1,000",6.052917293233083,0.0,87.96,Ohio
+747,OH,Percentage of pop. 18-64 with no health insurance,13.946894031668686,4.3,29.9,Ohio
+748,OH,Population Demographics,30.730624847746604,0.0,100.0,Ohio
+749,OH,"Population aged 60-69, percentage of total pop.",10.605845310596848,0.0,28.043000000000003,Ohio
+750,OH,"Population aged 70-79, percentage of total pop.",5.207925700365406,0.0,19.535,Ohio
+751,OH,"Population aged 80+, percentage of total pop.",3.5060937880633385,0.0,30.653000000000002,Ohio
+752,OH,"Population density per 10,000",19.279454323995118,0.6579999999999999,113.264,Ohio
+753,OH,"Prison population per 1,000",1.9345067650676508,0.0,197.94299999999998,Ohio
+754,OH,Ratio of the population to primary care physicians,102.41656516443362,66.0,140.0,Ohio
+755,OH,Underlying Health Issues,60.51774299634594,0.0,100.0,Ohio
+756,OK,Active smoking in adults 18+,20.242516268980467,9.4,41.6,Oklahoma
+757,OK,Asthma prevalence among adults 18+,10.48026030368763,8.1,14.3,Oklahoma
+758,OK,COPD prevalence among adults 18+,7.942299349240789,1.9,17.1,Oklahoma
+759,OK,Cancer prevalence in adults 18+,6.182863340563989,1.0,11.8,Oklahoma
+760,OK,Coronary heart disease prevalence in adults 18+,6.613015184381777,1.0,15.7,Oklahoma
+761,OK,Covid-19 Vulnerability Index,50.36313449023859,0.0,100.0,Oklahoma
+762,OK,Diabetes prevalence in adults 18+,11.542733188720185,2.2,26.2,Oklahoma
+763,OK,Health Infrastructure,39.72115454545455,0.0,91.022,Oklahoma
+764,OK,High blood pressure prevalence in adults 18+,35.877223427331906,13.6,59.7,Oklahoma
+765,OK,"Number of hospital beds per 1,000 pop. within 25km radius",3.8188481561822076,0.324,5.185,Oklahoma
+766,OK,"Number of urgent care facilities per 1,000 pop. within 25km radius",6.78712272727273,0.365,25.989,Oklahoma
+767,OK,"Nursing home population per 1,000",5.7554847161572065,0.0,88.40299999999999,Oklahoma
+768,OK,Percentage of pop. 18-64 with no health insurance,17.76767895878526,6.4,45.8,Oklahoma
+769,OK,Population Demographics,29.136325379609545,0.0,100.0,Oklahoma
+770,OK,"Population aged 60-69, percentage of total pop.",10.236978308026016,0.0,26.484,Oklahoma
+771,OK,"Population aged 70-79, percentage of total pop.",5.334531453362258,0.0,14.808,Oklahoma
+772,OK,"Population aged 80+, percentage of total pop.",3.199449023861171,0.0,26.326999999999998,Oklahoma
+773,OK,"Population density per 10,000",11.357305856832962,0.01,48.408,Oklahoma
+774,OK,"Prison population per 1,000",1.205201754385965,0.0,107.59200000000001,Oklahoma
+775,OK,Ratio of the population to primary care physicians,86.79609544468546,21.0,112.0,Oklahoma
+776,OK,Underlying Health Issues,52.10020607375271,0.0,100.0,Oklahoma
+777,OR,Active smoking in adults 18+,17.14553571428571,8.8,35.9,Oregon
+778,OR,Asthma prevalence among adults 18+,10.380059523809523,8.3,13.1,Oregon
+779,OR,COPD prevalence among adults 18+,5.122321428571433,2.0,11.5,Oregon
+780,OR,Cancer prevalence in adults 18+,6.068154761904767,1.4,12.4,Oregon
+781,OR,Coronary heart disease prevalence in adults 18+,4.874404761904762,1.4,11.6,Oregon
+782,OR,Covid-19 Vulnerability Index,35.524142857142834,0.0,97.20700000000001,Oregon
+783,OR,Diabetes prevalence in adults 18+,7.833928571428577,2.2,15.9,Oregon
+784,OR,Health Infrastructure,51.042274626865684,0.0,96.118,Oregon
+785,OR,High blood pressure prevalence in adults 18+,25.746428571428584,10.4,43.0,Oregon
+786,OR,"Number of hospital beds per 1,000 pop. within 25km radius",1.808020833333332,0.784,2.6319999999999997,Oregon
+787,OR,"Number of urgent care facilities per 1,000 pop. within 25km radius",4.1296776119403,0.23,24.682,Oregon
+788,OR,"Nursing home population per 1,000",6.465991017964074,0.0,78.156,Oregon
+789,OR,Percentage of pop. 18-64 with no health insurance,12.146428571428576,5.3,32.9,Oregon
+790,OR,Population Demographics,30.939985119047634,0.0,100.0,Oregon
+791,OR,"Population aged 60-69, percentage of total pop.",11.167654761904762,1.485,23.699,Oregon
+792,OR,"Population aged 70-79, percentage of total pop.",5.551705357142856,0.5529999999999999,14.854000000000001,Oregon
+793,OR,"Population aged 80+, percentage of total pop.",3.290520833333336,0.0,16.722,Oregon
+794,OR,"Population density per 10,000",22.506154761904764,0.005,134.808,Oregon
+795,OR,"Prison population per 1,000",1.5597327327327326,0.0,160.045,Oregon
+796,OR,Ratio of the population to primary care physicians,114.04464285714286,59.0,143.0,Oregon
+797,OR,Underlying Health Issues,32.142738095238094,0.0,86.887,Oregon
+798,PA,Active smoking in adults 18+,23.59746031746031,9.3,44.8,Pennsylvania
+799,PA,Asthma prevalence among adults 18+,11.18047619047619,7.9,16.3,Pennsylvania
+800,PA,COPD prevalence among adults 18+,7.443015873015874,1.8,20.2,Pennsylvania
+801,PA,Cancer prevalence in adults 18+,5.969841269841269,0.8,18.7,Pennsylvania
+802,PA,Coronary heart disease prevalence in adults 18+,6.771269841269841,1.1,18.6,Pennsylvania
+803,PA,Covid-19 Vulnerability Index,51.46125714285714,0.0,100.0,Pennsylvania
+804,PA,Diabetes prevalence in adults 18+,12.559206349206347,1.8,26.6,Pennsylvania
+805,PA,Health Infrastructure,45.23744019138756,0.0,92.54,Pennsylvania
+806,PA,High blood pressure prevalence in adults 18+,33.53492063492064,10.8,56.4,Pennsylvania
+807,PA,"Number of hospital beds per 1,000 pop. within 25km radius",3.7818809523809493,1.808,5.638999999999999,Pennsylvania
+808,PA,"Number of urgent care facilities per 1,000 pop. within 25km radius",3.3621897926634765,0.233,24.45,Pennsylvania
+809,PA,"Nursing home population per 1,000",4.0537228525121565,0.0,82.124,Pennsylvania
+810,PA,Percentage of pop. 18-64 with no health insurance,13.300793650793647,3.9,35.3,Pennsylvania
+811,PA,Population Demographics,32.68455714285716,0.0,100.0,Pennsylvania
+812,PA,"Population aged 60-69, percentage of total pop.",10.231147619047618,0.0,41.667,Pennsylvania
+813,PA,"Population aged 70-79, percentage of total pop.",5.474549206349205,0.0,18.042,Pennsylvania
+814,PA,"Population aged 80+, percentage of total pop.",3.8581714285714304,0.0,39.923,Pennsylvania
+815,PA,"Population density per 10,000",59.17479682539687,0.045,318.471,Pennsylvania
+816,PA,"Prison population per 1,000",0.13797431781701444,0.0,56.067,Pennsylvania
+817,PA,Ratio of the population to primary care physicians,78.45238095238095,64.0,110.0,Pennsylvania
+818,PA,Underlying Health Issues,51.587142857142894,0.0,100.0,Pennsylvania
+819,RI,Active smoking in adults 18+,17.923469387755105,7.3,26.1,Rhode Island
+820,RI,Asthma prevalence among adults 18+,12.1234693877551,9.6,15.0,Rhode Island
+821,RI,COPD prevalence among adults 18+,7.097959183673469,3.1,15.4,Rhode Island
+822,RI,Cancer prevalence in adults 18+,6.446938775510205,2.0,10.7,Rhode Island
+823,RI,Coronary heart disease prevalence in adults 18+,5.767346938775509,1.8,12.8,Rhode Island
+824,RI,Covid-19 Vulnerability Index,47.00192857142855,2.512,100.0,Rhode Island
+825,RI,Diabetes prevalence in adults 18+,10.029591836734692,3.0,21.0,Rhode Island
+826,RI,Health Infrastructure,46.03157142857143,11.42,67.817,Rhode Island
+827,RI,High blood pressure prevalence in adults 18+,32.075510204081624,13.3,48.3,Rhode Island
+828,RI,"Number of hospital beds per 1,000 pop. within 25km radius",2.643683673469389,2.188,3.755,Rhode Island
+829,RI,"Number of urgent care facilities per 1,000 pop. within 25km radius",5.732704081632653,2.69,14.436,Rhode Island
+830,RI,"Nursing home population per 1,000",1.016612244897959,0.0,33.26,Rhode Island
+831,RI,Percentage of pop. 18-64 with no health insurance,12.458163265306126,3.8,25.5,Rhode Island
+832,RI,Population Demographics,33.39432653061223,3.949,87.87100000000001,Rhode Island
+833,RI,"Population aged 60-69, percentage of total pop.",10.63237755102041,2.8339999999999996,21.109,Rhode Island
+834,RI,"Population aged 70-79, percentage of total pop.",5.556846938775508,0.121,14.475,Rhode Island
+835,RI,"Population aged 80+, percentage of total pop.",4.056673469387754,0.364,12.094000000000001,Rhode Island
+836,RI,"Population density per 10,000",31.488959183673483,2.512,83.574,Rhode Island
+837,RI,"Prison population per 1,000",0.0,0.0,0.0,Rhode Island
+838,RI,Ratio of the population to primary care physicians,92.42857142857143,83.0,95.0,Rhode Island
+839,RI,Underlying Health Issues,45.7277551020408,2.1069999999999998,100.0,Rhode Island
+840,SC,Active smoking in adults 18+,18.222155688622763,8.5,45.5,South Carolina
+841,SC,Asthma prevalence among adults 18+,9.959880239520963,7.6,14.4,South Carolina
+842,SC,COPD prevalence among adults 18+,5.935928143712573,1.8,15.3,South Carolina
+843,SC,Cancer prevalence in adults 18+,5.486227544910179,0.9,11.3,South Carolina
+844,SC,Coronary heart disease prevalence in adults 18+,5.134730538922152,0.7,12.3,South Carolina
+845,SC,Covid-19 Vulnerability Index,42.59203592814369,0.0,96.725,South Carolina
+846,SC,Diabetes prevalence in adults 18+,10.976047904191617,1.7,25.9,South Carolina
+847,SC,Health Infrastructure,47.80573053892217,11.623,100.0,South Carolina
+848,SC,High blood pressure prevalence in adults 18+,33.57604790419164,11.8,59.1,South Carolina
+849,SC,"Number of hospital beds per 1,000 pop. within 25km radius",3.149664670658684,0.6779999999999999,3.753,South Carolina
+850,SC,"Number of urgent care facilities per 1,000 pop. within 25km radius",4.257491017964071,0.501,13.684000000000001,South Carolina
+851,SC,"Nursing home population per 1,000",2.7359272727272725,0.0,65.762,South Carolina
+852,SC,Percentage of pop. 18-64 with no health insurance,16.132335329341323,6.6,38.5,South Carolina
+853,SC,Population Demographics,28.82885029940119,0.0,89.88799999999999,South Carolina
+854,SC,"Population aged 60-69, percentage of total pop.",10.508982035928142,0.0,23.945,South Carolina
+855,SC,"Population aged 70-79, percentage of total pop.",5.516652694610782,0.0,18.755,South Carolina
+856,SC,"Population aged 80+, percentage of total pop.",3.1083952095808387,0.0,10.394,South Carolina
+857,SC,"Population density per 10,000",10.350502994011975,0.16699999999999998,52.985,South Carolina
+858,SC,"Prison population per 1,000",1.2538,0.0,206.877,South Carolina
+859,SC,Ratio of the population to primary care physicians,94.62275449101796,34.0,125.0,South Carolina
+860,SC,Underlying Health Issues,41.83416766467065,0.0,100.0,South Carolina
+861,SD,Active smoking in adults 18+,18.88928571428571,10.7,29.5,South Dakota
+862,SD,Asthma prevalence among adults 18+,8.53392857142857,7.2,10.4,South Dakota
+863,SD,COPD prevalence among adults 18+,4.82142857142857,2.6,7.7,South Dakota
+864,SD,Cancer prevalence in adults 18+,6.389285714285714,3.2,10.1,South Dakota
+865,SD,Coronary heart disease prevalence in adults 18+,5.558928571428569,2.2,8.1,South Dakota
+866,SD,Covid-19 Vulnerability Index,38.49801785714285,5.1,73.932,South Dakota
+867,SD,Diabetes prevalence in adults 18+,8.59285714285714,4.0,12.9,South Dakota
+868,SD,Health Infrastructure,40.69401785714287,12.357999999999999,56.299,South Dakota
+869,SD,High blood pressure prevalence in adults 18+,28.887499999999992,16.5,38.4,South Dakota
+870,SD,"Number of hospital beds per 1,000 pop. within 25km radius",4.007107142857139,3.219,4.753,South Dakota
+871,SD,"Number of urgent care facilities per 1,000 pop. within 25km radius",1.4441249999999999,0.431,3.5989999999999998,South Dakota
+872,SD,"Nursing home population per 1,000",13.217374999999995,0.0,85.13799999999999,South Dakota
+873,SD,Percentage of pop. 18-64 with no health insurance,11.555357142857144,6.0,18.5,South Dakota
+874,SD,Population Demographics,33.552392857142856,4.497,91.119,South Dakota
+875,SD,"Population aged 60-69, percentage of total pop.",10.760500000000002,3.1260000000000003,20.434,South Dakota
+876,SD,"Population aged 70-79, percentage of total pop.",5.37244642857143,1.401,12.812000000000001,South Dakota
+877,SD,"Population aged 80+, percentage of total pop.",3.6936607142857154,0.20800000000000002,12.276,South Dakota
+878,SD,"Population density per 10,000",10.851089285714286,0.254,28.576999999999998,South Dakota
+879,SD,"Prison population per 1,000",4.084763636363636,0.0,113.57,South Dakota
+880,SD,Ratio of the population to primary care physicians,93.64285714285714,85.0,167.0,South Dakota
+881,SD,Underlying Health Issues,35.77946428571428,5.492000000000001,57.988,South Dakota
+882,TN,Active smoking in adults 18+,22.977299412915837,5.2,46.1,Tennessee
+883,TN,Asthma prevalence among adults 18+,10.807827788649709,7.5,16.9,Tennessee
+884,TN,COPD prevalence among adults 18+,8.324070450097853,2.5,21.6,Tennessee
+885,TN,Cancer prevalence in adults 18+,5.844031311154597,0.9,21.1,Tennessee
+886,TN,Coronary heart disease prevalence in adults 18+,6.353620352250493,0.7,16.6,Tennessee
+887,TN,Covid-19 Vulnerability Index,52.07975929549904,0.0,100.0,Tennessee
+888,TN,Diabetes prevalence in adults 18+,12.457142857142856,1.5,31.4,Tennessee
+889,TN,Health Infrastructure,48.52651176470592,6.462999999999999,100.0,Tennessee
+890,TN,High blood pressure prevalence in adults 18+,36.53013698630136,9.9,61.9,Tennessee
+891,TN,"Number of hospital beds per 1,000 pop. within 25km radius",3.6494677103718214,0.802,5.825,Tennessee
+892,TN,"Number of urgent care facilities per 1,000 pop. within 25km radius",4.298854901960786,0.18600000000000003,24.862,Tennessee
+893,TN,"Nursing home population per 1,000",5.9041507936507935,0.0,86.79899999999999,Tennessee
+894,TN,Percentage of pop. 18-64 with no health insurance,19.597260273972598,7.0,38.4,Tennessee
+895,TN,Population Demographics,28.06968101761254,0.0,99.324,Tennessee
+896,TN,"Population aged 60-69, percentage of total pop.",10.07118199608611,0.0,24.331,Tennessee
+897,TN,"Population aged 70-79, percentage of total pop.",5.034984344422697,0.0,17.535999999999998,Tennessee
+898,TN,"Population aged 80+, percentage of total pop.",3.0910097847358164,0.0,17.212,Tennessee
+899,TN,"Population density per 10,000",10.96976908023483,0.04,48.106,Tennessee
+900,TN,"Prison population per 1,000",0.770589641434263,0.0,161.862,Tennessee
+901,TN,Ratio of the population to primary care physicians,88.45792563600783,42.0,114.0,Tennessee
+902,TN,Underlying Health Issues,53.546211350293575,0.0,100.0,Tennessee
+903,TX,Active smoking in adults 18+,17.025937183383938,4.5,40.7,Texas
+904,TX,Asthma prevalence among adults 18+,8.51155015197567,5.6,13.6,Texas
+905,TX,COPD prevalence among adults 18+,5.427524484971284,1.3,17.8,Texas
+906,TX,Cancer prevalence in adults 18+,5.113576494427564,0.7,21.3,Texas
+907,TX,Coronary heart disease prevalence in adults 18+,5.441911516379595,0.5,19.6,Texas
+908,TX,Covid-19 Vulnerability Index,41.162387369132034,0.0,100.0,Texas
+909,TX,Diabetes prevalence in adults 18+,11.793110435663651,1.5,30.3,Texas
+910,TX,Health Infrastructure,69.96121737649058,0.0,100.0,Texas
+911,TX,High blood pressure prevalence in adults 18+,31.19199594731502,9.4,63.9,Texas
+912,TX,"Number of hospital beds per 1,000 pop. within 25km radius",2.6791091216216167,0.42700000000000005,6.346,Texas
+913,TX,"Number of urgent care facilities per 1,000 pop. within 25km radius",5.4034707084468625,0.0,29.037,Texas
+914,TX,"Nursing home population per 1,000",6.2042628532516115,0.0,88.305,Texas
+915,TX,Percentage of pop. 18-64 with no health insurance,27.556973995271868,7.5,57.8,Texas
+916,TX,Population Demographics,25.037640999662298,0.0,100.0,Texas
+917,TX,"Population aged 60-69, percentage of total pop.",8.884044917257672,0.0,41.935,Texas
+918,TX,"Population aged 70-79, percentage of total pop.",4.695261735900026,0.0,43.548,Texas
+919,TX,"Population aged 80+, percentage of total pop.",2.716699763593376,0.0,20.42,Texas
+920,TX,"Population density per 10,000",18.50051435325906,0.004,235.72799999999998,Texas
+921,TX,"Prison population per 1,000",1.0898939857288479,0.0,197.11599999999999,Texas
+922,TX,Ratio of the population to primary care physicians,66.73083417764269,10.0,99.0,Texas
+923,TX,Underlying Health Issues,39.40714184397165,0.0,100.0,Texas
+924,UT,Active smoking in adults 18+,10.929613733905578,4.8,19.7,Utah
+925,UT,Asthma prevalence among adults 18+,9.297424892703855,7.2,11.7,Utah
+926,UT,COPD prevalence among adults 18+,4.23519313304721,2.0,7.6,Utah
+927,UT,Cancer prevalence in adults 18+,5.210729613733905,0.9,12.0,Utah
+928,UT,Coronary heart disease prevalence in adults 18+,4.221030042918459,0.9,10.0,Utah
+929,UT,Covid-19 Vulnerability Index,27.629729613733886,0.0,93.34899999999999,Utah
+930,UT,Diabetes prevalence in adults 18+,7.1806866952789745,1.6,13.7,Utah
+931,UT,Health Infrastructure,68.7471931330472,7.496,100.0,Utah
+932,UT,High blood pressure prevalence in adults 18+,22.9733905579399,8.0,38.6,Utah
+933,UT,"Number of hospital beds per 1,000 pop. within 25km radius",1.6200128755364809,1.003,2.653,Utah
+934,UT,"Number of urgent care facilities per 1,000 pop. within 25km radius",6.258927038626615,0.504,27.715,Utah
+935,UT,"Nursing home population per 1,000",5.852995708154503,0.0,74.51,Utah
+936,UT,Percentage of pop. 18-64 with no health insurance,16.731330472102993,6.6,36.9,Utah
+937,UT,Population Demographics,22.534214592274694,0.0,100.0,Utah
+938,UT,"Population aged 60-69, percentage of total pop.",8.308158798283266,0.0,20.123,Utah
+939,UT,"Population aged 70-79, percentage of total pop.",4.43066094420601,0.0,18.764,Utah
+940,UT,"Population aged 80+, percentage of total pop.",2.3875708154506445,0.0,14.409,Utah
+941,UT,"Population density per 10,000",20.743892703862652,0.053,126.014,Utah
+942,UT,"Prison population per 1,000",0.5871502145922747,0.0,122.348,Utah
+943,UT,Ratio of the population to primary care physicians,60.52360515021459,40.0,74.0,Utah
+944,UT,Underlying Health Issues,24.050888412017173,0.0,69.344,Utah
+945,VA,Active smoking in adults 18+,19.457114228456902,7.9,38.5,Virginia
+946,VA,Asthma prevalence among adults 18+,10.225651302605206,7.7,17.0,Virginia
+947,VA,COPD prevalence among adults 18+,6.634068136272548,1.8,15.3,Virginia
+948,VA,Cancer prevalence in adults 18+,5.8539078156312625,1.0,13.7,Virginia
+949,VA,Coronary heart disease prevalence in adults 18+,5.395591182364729,0.7,12.2,Virginia
+950,VA,Covid-19 Vulnerability Index,45.435693386773515,0.0,100.0,Virginia
+951,VA,Diabetes prevalence in adults 18+,11.220040080160306,1.6,26.7,Virginia
+952,VA,Health Infrastructure,55.96890524193548,16.382,87.682,Virginia
+953,VA,High blood pressure prevalence in adults 18+,32.57274549098198,9.9,54.7,Virginia
+954,VA,"Number of hospital beds per 1,000 pop. within 25km radius",2.3783386773547055,0.491,4.879,Virginia
+955,VA,"Number of urgent care facilities per 1,000 pop. within 25km radius",5.166639112903229,0.11599999999999999,26.125,Virginia
+956,VA,"Nursing home population per 1,000",5.757936734693879,0.0,87.96799999999999,Virginia
+957,VA,Percentage of pop. 18-64 with no health insurance,14.882965931863735,5.1,33.8,Virginia
+958,VA,Population Demographics,29.782953907815646,0.0,100.0,Virginia
+959,VA,"Population aged 60-69, percentage of total pop.",10.328591182364725,0.0,24.689,Virginia
+960,VA,"Population aged 70-79, percentage of total pop.",5.335987975951906,0.0,19.215999999999998,Virginia
+961,VA,"Population aged 80+, percentage of total pop.",3.289070140280563,0.0,25.573,Virginia
+962,VA,"Population density per 10,000",19.15487174348699,0.065,231.47099999999998,Virginia
+963,VA,"Prison population per 1,000",2.297171370967742,0.0,206.16400000000002,Virginia
+964,VA,Ratio of the population to primary care physicians,80.47895791583166,43.0,121.0,Virginia
+965,VA,Underlying Health Issues,44.18629258517032,0.0,100.0,Virginia
+966,VT,Active smoking in adults 18+,15.054545454545455,12.3,20.2,Vermont
+967,VT,Asthma prevalence among adults 18+,11.163636363636364,10.3,12.4,Vermont
+968,VT,COPD prevalence among adults 18+,4.918181818181819,2.7,6.7,Vermont
+969,VT,Cancer prevalence in adults 18+,4.909090909090908,1.9,8.4,Vermont
+970,VT,Coronary heart disease prevalence in adults 18+,4.381818181818182,1.5,6.7,Vermont
+971,VT,Covid-19 Vulnerability Index,26.15645454545454,0.0,57.836999999999996,Vermont
+972,VT,Diabetes prevalence in adults 18+,5.790909090909091,2.1,8.4,Vermont
+973,VT,Health Infrastructure,27.428727272727272,23.585,30.774,Vermont
+974,VT,High blood pressure prevalence in adults 18+,20.918181818181814,9.6,29.6,Vermont
+975,VT,"Number of hospital beds per 1,000 pop. within 25km radius",2.6989999999999994,2.699,2.699,Vermont
+976,VT,"Number of urgent care facilities per 1,000 pop. within 25km radius",0.8740909090909091,0.496,1.395,Vermont
+977,VT,"Nursing home population per 1,000",12.017818181818182,0.0,55.577,Vermont
+978,VT,Percentage of pop. 18-64 with no health insurance,9.727272727272727,7.3,12.7,Vermont
+979,VT,Population Demographics,28.97572727272728,3.528,77.089,Vermont
+980,VT,"Population aged 60-69, percentage of total pop.",8.160454545454545,2.86,14.556,Vermont
+981,VT,"Population aged 70-79, percentage of total pop.",4.760454545454546,1.389,8.696,Vermont
+982,VT,"Population aged 80+, percentage of total pop.",3.3683636363636364,0.546,9.471,Vermont
+983,VT,"Population density per 10,000",29.354818181818178,6.602,85.09299999999999,Vermont
+984,VT,"Prison population per 1,000",0.0,0.0,0.0,Vermont
+985,VT,Ratio of the population to primary care physicians,181.0,181.0,181.0,Vermont
+986,VT,Underlying Health Issues,23.545090909090906,0.0,44.641999999999996,Vermont
+987,WA,Active smoking in adults 18+,14.61391650099403,4.9,29.7,Washington
+988,WA,Asthma prevalence among adults 18+,10.079721669980122,6.9,13.5,Washington
+989,WA,COPD prevalence among adults 18+,5.51908548707753,2.1,17.5,Washington
+990,WA,Cancer prevalence in adults 18+,6.1958250497017975,0.8,19.5,Washington
+991,WA,Coronary heart disease prevalence in adults 18+,5.024453280318091,0.9,19.7,Washington
+992,WA,Covid-19 Vulnerability Index,37.49843538767398,0.0,100.0,Washington
+993,WA,Diabetes prevalence in adults 18+,8.44691848906561,1.8,23.4,Washington
+994,WA,Health Infrastructure,54.04045924453281,15.392999999999999,95.439,Washington
+995,WA,High blood pressure prevalence in adults 18+,26.736182902584492,8.6,60.3,Washington
+996,WA,"Number of hospital beds per 1,000 pop. within 25km radius",2.004874751491053,0.7759999999999999,4.628,Washington
+997,WA,"Number of urgent care facilities per 1,000 pop. within 25km radius",3.5944691848906514,0.0,25.735,Washington
+998,WA,"Nursing home population per 1,000",5.108641434262947,0.0,71.704,Washington
+999,WA,Percentage of pop. 18-64 with no health insurance,10.717693836978132,4.6,35.3,Washington
+1000,WA,Population Demographics,30.973391650099387,0.0,100.0,Washington
+1001,WA,"Population aged 60-69, percentage of total pop.",10.38987276341948,0.207,22.326,Washington
+1002,WA,"Population aged 70-79, percentage of total pop.",5.503111332007954,0.0,16.201,Washington
+1003,WA,"Population aged 80+, percentage of total pop.",3.4608986083499005,0.0,18.033,Washington
+1004,WA,"Population density per 10,000",25.08152882703783,0.149,223.041,Washington
+1005,WA,"Prison population per 1,000",1.219046370967742,0.0,186.145,Washington
+1006,WA,Ratio of the population to primary care physicians,95.16500994035785,51.0,118.0,Washington
+1007,WA,Underlying Health Issues,34.223238568588464,0.0,100.0,Washington
+1008,WI,Active smoking in adults 18+,20.343999999999998,7.8,34.7,Wisconsin
+1009,WI,Asthma prevalence among adults 18+,10.716749999999998,7.0,15.4,Wisconsin
+1010,WI,COPD prevalence among adults 18+,5.609999999999998,1.4,11.4,Wisconsin
+1011,WI,Cancer prevalence in adults 18+,5.449000000000001,0.8,20.5,Wisconsin
+1012,WI,Coronary heart disease prevalence in adults 18+,5.20675,0.9,14.4,Wisconsin
+1013,WI,Covid-19 Vulnerability Index,37.10198250000003,0.0,100.0,Wisconsin
+1014,WI,Diabetes prevalence in adults 18+,9.077000000000005,1.6,21.0,Wisconsin
+1015,WI,Health Infrastructure,38.16331725888325,0.0,87.249,Wisconsin
+1016,WI,High blood pressure prevalence in adults 18+,29.5445,9.3,55.1,Wisconsin
+1017,WI,"Number of hospital beds per 1,000 pop. within 25km radius",3.5289175000000115,1.903,5.308,Wisconsin
+1018,WI,"Number of urgent care facilities per 1,000 pop. within 25km radius",7.631461928934012,0.344,28.570999999999998,Wisconsin
+1019,WI,"Nursing home population per 1,000",6.905469696969695,0.0,81.766,Wisconsin
+1020,WI,Percentage of pop. 18-64 with no health insurance,13.865499999999995,4.4,35.9,Wisconsin
+1021,WI,Population Demographics,26.267317500000004,0.0,100.0,Wisconsin
+1022,WI,"Population aged 60-69, percentage of total pop.",9.4960375,0.0,26.551,Wisconsin
+1023,WI,"Population aged 70-79, percentage of total pop.",4.424587499999998,0.0,15.164000000000001,Wisconsin
+1024,WI,"Population aged 80+, percentage of total pop.",2.945875000000001,0.0,27.443,Wisconsin
+1025,WI,"Population density per 10,000",28.379897500000038,0.36700000000000005,263.317,Wisconsin
+1026,WI,"Prison population per 1,000",2.9076315789473686,0.0,209.862,Wisconsin
+1027,WI,Ratio of the population to primary care physicians,81.6675,12.0,140.0,Wisconsin
+1028,WI,Underlying Health Issues,37.01791,0.0,100.0,Wisconsin
+1029,WV,Active smoking in adults 18+,22.404545454545453,12.3,33.5,West Virginia
+1030,WV,Asthma prevalence among adults 18+,11.268181818181818,9.2,13.5,West Virginia
+1031,WV,COPD prevalence among adults 18+,11.190909090909091,6.8,16.4,West Virginia
+1032,WV,Cancer prevalence in adults 18+,7.436363636363635,4.0,9.6,West Virginia
+1033,WV,Coronary heart disease prevalence in adults 18+,8.595454545454544,5.2,12.4,West Virginia
+1034,WV,Covid-19 Vulnerability Index,72.61877272727274,46.231,100.0,West Virginia
+1035,WV,Diabetes prevalence in adults 18+,15.095454545454544,9.6,22.8,West Virginia
+1036,WV,Health Infrastructure,38.59490909090909,32.574,45.525,West Virginia
+1037,WV,High blood pressure prevalence in adults 18+,44.02272727272727,34.2,54.3,West Virginia
+1038,WV,"Number of hospital beds per 1,000 pop. within 25km radius",2.780727272727272,2.6630000000000003,4.12,West Virginia
+1039,WV,"Number of urgent care facilities per 1,000 pop. within 25km radius",2.0220000000000002,0.679,4.73,West Virginia
+1040,WV,"Nursing home population per 1,000",4.289857142857143,0.0,37.125,West Virginia
+1041,WV,Percentage of pop. 18-64 with no health insurance,10.813636363636364,5.4,16.0,West Virginia
+1042,WV,Population Demographics,42.370727272727265,17.98,84.766,West Virginia
+1043,WV,"Population aged 60-69, percentage of total pop.",14.712409090909093,6.061,23.084,West Virginia
+1044,WV,"Population aged 70-79, percentage of total pop.",7.431590909090909,5.114,10.655999999999999,West Virginia
+1045,WV,"Population aged 80+, percentage of total pop.",4.574090909090909,0.639,12.719000000000001,West Virginia
+1046,WV,"Population density per 10,000",8.663681818181816,0.353,27.962,West Virginia
+1047,WV,"Prison population per 1,000",2.951681818181818,0.0,64.937,West Virginia
+1048,WV,Ratio of the population to primary care physicians,135.0,135.0,135.0,West Virginia
+1049,WV,Underlying Health Issues,73.93922727272728,42.998999999999995,100.0,West Virginia
+1050,WY,Active smoking in adults 18+,18.687499999999996,12.3,26.3,Wyoming
+1051,WY,Asthma prevalence among adults 18+,9.65,8.7,10.9,Wyoming
+1052,WY,COPD prevalence among adults 18+,6.1187499999999995,4.3,7.0,Wyoming
+1053,WY,Cancer prevalence in adults 18+,6.612500000000001,4.2,9.0,Wyoming
+1054,WY,Coronary heart disease prevalence in adults 18+,5.51875,3.3,6.7,Wyoming
+1055,WY,Covid-19 Vulnerability Index,45.423312499999994,24.861,67.113,Wyoming
+1056,WY,Diabetes prevalence in adults 18+,8.537500000000001,5.0,10.3,Wyoming
+1057,WY,Health Infrastructure,73.64275,66.459,82.546,Wyoming
+1058,WY,High blood pressure prevalence in adults 18+,29.893750000000004,20.8,33.1,Wyoming
+1059,WY,"Number of hospital beds per 1,000 pop. within 25km radius",1.9469999999999994,1.9469999999999998,1.9469999999999998,Wyoming
+1060,WY,"Number of urgent care facilities per 1,000 pop. within 25km radius",0.48087500000000005,0.213,1.115,Wyoming
+1061,WY,"Nursing home population per 1,000",8.627062500000001,0.0,77.377,Wyoming
+1062,WY,Percentage of pop. 18-64 with no health insurance,16.318749999999998,9.8,23.9,Wyoming
+1063,WY,Population Demographics,37.87050000000001,16.697,87.35,Wyoming
+1064,WY,"Population aged 60-69, percentage of total pop.",11.268437500000001,5.959,18.468,Wyoming
+1065,WY,"Population aged 70-79, percentage of total pop.",6.2395625,2.888,9.81,Wyoming
+1066,WY,"Population aged 80+, percentage of total pop.",4.3938125,0.5760000000000001,11.422,Wyoming
+1067,WY,"Population density per 10,000",8.55925,0.034,18.396,Wyoming
+1068,WY,"Prison population per 1,000",2.4020625,0.0,38.433,Wyoming
+1069,WY,Ratio of the population to primary care physicians,74.0,74.0,74.0,Wyoming
+1070,WY,Underlying Health Issues,39.534625,17.457,48.118,Wyoming

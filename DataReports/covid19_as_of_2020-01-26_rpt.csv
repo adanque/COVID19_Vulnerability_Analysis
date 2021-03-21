@@ -1,0 +1,5 @@
+,State,Date_Recorded,First_Case_Date,NumberOfDays,Confirmed_Cases_Count,Death_Count,Recovered_Cases_Count,Confirmation_Rate,Deaths_Rate,Recovered_Rate
+8,AZ,2020-01-26,2020-01-26,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+7,CA,2020-01-26,2020-01-26,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+6,IL,2020-01-26,2020-01-25,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+5,WA,2020-01-26,2020-01-22,4.0,1.0,0.0,0.0,0.25,0.0,0.0
